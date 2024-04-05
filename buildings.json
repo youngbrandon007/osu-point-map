@@ -1,0 +1,1910 @@
+{
+    "AAAS Community Extension Center CX": {
+        "address": "905 Mt Vernon Ave Building 380, Columbus, OH 43203, USA",
+        "latitude": 39.9709327,
+        "longitude": -82.977835,
+        "google_place_id": "Ejc5MDUgTXQgVmVybm9uIEF2ZSBCdWlsZGluZyAzODAsIENvbHVtYnVzLCBPSCA0MzIwMywgVVNBIigaJgoWChQKEglLeF0m2Yg4iBHAcygtx4c15BIMQnVpbGRpbmcgMzgw"
+    },
+    "Ackerman Rd, 650": {
+        "address": "650 Ackerman Rd, Columbus, OH 43202, USA",
+        "latitude": 40.0190221,
+        "longitude": -83.0298128,
+        "google_place_id": "ChIJvy40kymMOIgRaW1RGyoyGc0"
+    },
+    "Ackerman Rd, 660": {
+        "address": "660 Ackerman Rd, Columbus, OH 43202, USA",
+        "latitude": 40.018831,
+        "longitude": -83.03026349999999,
+        "google_place_id": "ChIJDbyslymMOIgR3BtPnkCN3GA"
+    },
+    "Ackerman Rd, 690 - Shelter House": {
+        "address": "Ackerman Rd, 690-Grounds Storage (0244), 690 Ackerman Rd Building 2442, Columbus, OH 43202, USA",
+        "latitude": 40.0194713,
+        "longitude": -83.0312915,
+        "google_place_id": "El9BY2tlcm1hbiBSZCwgNjkwLUdyb3VuZHMgU3RvcmFnZSAoMDI0NCksIDY5MCBBY2tlcm1hbiBSZCBCdWlsZGluZyAyNDQyLCBDb2x1bWJ1cywgT0ggNDMyMDIsIFVTQSIpGicKFgoUChIJg6RbJCqMOIgRb8OE1K0l58sSDUJ1aWxkaW5nIDI0NDI"
+    },
+    "Ackerman Rd, 700": {
+        "address": "Ackerman Place, 700 Ackerman Rd, Columbus, OH 43202, USA",
+        "latitude": 40.0197505,
+        "longitude": -83.0330945,
+        "google_place_id": "ChIJK3ENWiqMOIgRQlWWYOn2z3I"
+    },
+    "Adriatico's": {
+        "address": "1618 Neil Ave Building 909, Columbus, OH 43201, USA",
+        "latitude": 39.9945638,
+        "longitude": -83.01419659999999,
+        "google_place_id": "EjMxNjE4IE5laWwgQXZlIEJ1aWxkaW5nIDkwOSwgQ29sdW1idXMsIE9IIDQzMjAxLCBVU0EiKBomChYKFAoSCQvwrCXAjjiIEWq0PIFhNJwXEgxCdWlsZGluZyA5MDk"
+    },
+    "Adventure Recreation Center AR": {
+        "address": "Adventure Recreation Center, 855 Woody Hayes Dr, Columbus, OH 43210, USA",
+        "latitude": 40.0027303,
+        "longitude": -83.031858,
+        "google_place_id": "ChIJ2_jhXomOOIgR35gmzb-vunY"
+    },
+    "Aerospace Research Center AARL": {
+        "address": "2300 W Case Rd Building 199, Columbus, OH 43235, USA",
+        "latitude": 40.0741557,
+        "longitude": -83.0791704,
+        "google_place_id": "EjQyMzAwIFcgQ2FzZSBSZCBCdWlsZGluZyAxOTksIENvbHVtYnVzLCBPSCA0MzIzNSwgVVNBIigaJgoWChQKEglpL8B_nZI4iBHysJ6DsBziIBIMQnVpbGRpbmcgMTk5"
+    },
+    "Agricultural Administration AA": {
+        "address": "Agricultural Administration Building, 2120 Fyffe Rd Building 003, Columbus, OH 43210, USA",
+        "latitude": 40.0054372,
+        "longitude": -83.0271165,
+        "google_place_id": "EllBZ3JpY3VsdHVyYWwgQWRtaW5pc3RyYXRpb24gQnVpbGRpbmcsIDIxMjAgRnlmZmUgUmQgQnVpbGRpbmcgMDAzLCBDb2x1bWJ1cywgT0ggNDMyMTAsIFVTQSIoGiYKFgoUChIJn797uo-OOIgR-gy9r6zE_roSDEJ1aWxkaW5nIDAwMw"
+    },
+    "Agricultural Engineering Building AE": {
+        "address": "Agricultural Engineering Bldg, 590 Woody Hayes Dr, Columbus, OH 43210, USA",
+        "latitude": 40.00547160000001,
+        "longitude": -83.0250805,
+        "google_place_id": "ChIJqxvkJJCOOIgRrQzf5sdouro"
+    },
+    "Airport Administration": {
+        "address": "2160 W Case Rd Building 021, Columbus, OH 43235, USA",
+        "latitude": 40.0751505,
+        "longitude": -83.0751773,
+        "google_place_id": "EjQyMTYwIFcgQ2FzZSBSZCBCdWlsZGluZyAwMjEsIENvbHVtYnVzLCBPSCA0MzIzNSwgVVNBIigaJgoWChQKEglhnvJCZI04iBFYBbQ4fj35JBIMQnVpbGRpbmcgMDIx"
+    },
+    "Airport Dr, 2740": {
+        "address": "2740 Airport Dr, Columbus, OH 43219, USA",
+        "latitude": 39.99688,
+        "longitude": -82.934988,
+        "google_place_id": "ChIJx8yHTJGJOIgR5TCAmi-2fFw"
+    },
+    "Airport Operations AO": {
+        "address": "2160 W Case Rd Building 031, Columbus, OH 43235, USA",
+        "latitude": 40.0751505,
+        "longitude": -83.0751773,
+        "google_place_id": "EjQyMTYwIFcgQ2FzZSBSZCBCdWlsZGluZyAwMzEsIENvbHVtYnVzLCBPSCA0MzIzNSwgVVNBIigaJgoWChQKEglhnvJCZI04iBFYBbQ4fj35JBIMQnVpbGRpbmcgMDMx"
+    },
+    "Animal House Kinnear Research Center": {
+        "address": "Animal House Kinnear Research Center, 1314 Kinnear Rd Building 174, Columbus, OH 43212, USA",
+        "latitude": 39.9995212,
+        "longitude": -83.0430802,
+        "google_place_id": "EltBbmltYWwgSG91c2UgS2lubmVhciBSZXNlYXJjaCBDZW50ZXIsIDEzMTQgS2lubmVhciBSZCBCdWlsZGluZyAxNzQsIENvbHVtYnVzLCBPSCA0MzIxMiwgVVNBIigaJgoWChQKEgl9iVsUZ444iBHxiXJXmWF0jBIMQnVpbGRpbmcgMTc0"
+    },
+    "Animal Science Building AS": {
+        "address": "2029 Fyffe Ct, Columbus, OH 43210, USA",
+        "latitude": 40.0044767,
+        "longitude": -83.02795809999999,
+        "google_place_id": "EiYyMDI5IEZ5ZmZlIEN0LCBDb2x1bWJ1cywgT0ggNDMyMTAsIFVTQSIxEi8KFAoSCefjb1aOjjiIEevTM88t6kILEO0PKhQKEgkJZndWjo44iBE4Qx7AIR-2sw"
+    },
+    "Archer House": {
+        "address": "Archer House, 2130 Neil Ave Building 261, Columbus, OH 43210, USA",
+        "latitude": 40.0052913,
+        "longitude": -83.014107,
+        "google_place_id": "EkFBcmNoZXIgSG91c2UsIDIxMzAgTmVpbCBBdmUgQnVpbGRpbmcgMjYxLCBDb2x1bWJ1cywgT0ggNDMyMTAsIFVTQSIoGiYKFgoUChIJ6QBEXb2OOIgRq41uyNtUHcUSDEJ1aWxkaW5nIDI2MQ"
+    },
+    "Aronoff Laboratory AL": {
+        "address": "318 W 12th Ave, Columbus, OH 43210, USA",
+        "latitude": 39.9967351,
+        "longitude": -83.01675569999999,
+        "google_place_id": "ChIJEbAiM5WOOIgRilLOZ0BzVm4"
+    },
+    "Arps Hall AP": {
+        "address": "Arps Hall, 1945 N High St, Columbus, OH 43210, USA",
+        "latitude": 40.0018032,
+        "longitude": -83.00960370000001,
+        "google_place_id": "ChIJmYO2CbyOOIgRviRIN9007Gg"
+    },
+    "Atwell Hall AH": {
+        "address": "Atwell Hall, 453 W 10th Ave #306, Columbus, OH 43210, USA",
+        "latitude": 39.9936549,
+        "longitude": -83.01873309999999,
+        "google_place_id": "ChIJwfS8mOuOOIgRGSOaR6KtG0k"
+    },
+    "Baker Hall": {},
+    "Baker Systems Engineering BE": {
+        "address": "Baker Systems Engineering Bldg, 1971 Neil Ave Building 280, Columbus, OH 43210, USA",
+        "latitude": 40.0016026,
+        "longitude": -83.0159123,
+        "google_place_id": "ElNCYWtlciBTeXN0ZW1zIEVuZ2luZWVyaW5nIEJsZGcsIDE5NzEgTmVpbCBBdmUgQnVpbGRpbmcgMjgwLCBDb2x1bWJ1cywgT0ggNDMyMTAsIFVTQSIoGiYKFgoUChIJLfaTCpaOOIgRTsENyzkgCdoSDEJ1aWxkaW5nIDI4MA"
+    },
+    "Barrett House": {
+        "address": "Barrett House, 88 W Woodruff Ave, Columbus, OH 43210, USA",
+        "latitude": 40.0046998,
+        "longitude": -83.0109172,
+        "google_place_id": "ChIJ7W-V7ryOOIgRsg5KMRa2Qr0"
+    },
+    "Bevis Hall BH": {
+        "address": "Bevis Hall, 1080 Carmack Rd, Columbus, OH 43210, USA",
+        "latitude": 40.0028821,
+        "longitude": -83.0380821,
+        "google_place_id": "ChIJObeKJ2KOOIgRqn7rH6vcQWc"
+    },
+    "Bill Davis Baseball Stadium": {
+        "address": "Bill Davis Baseball Stadium, 650 Borror Dr, Columbus, OH 43210, USA",
+        "latitude": 40.0092839,
+        "longitude": -83.0265044,
+        "google_place_id": "ChIJzfuqI4WOOIgRySaXe7ifW5k"
+    },
+    "Biocontainment Laboratory": {
+        "address": "2090 Carmack Rd, Columbus, OH 43210, USA",
+        "latitude": 40.0009733,
+        "longitude": -83.0409947,
+        "google_place_id": "ChIJW6_ch4yPOIgRZdo_LlR8MRs"
+    },
+    "Biological Sciences Building BI": {
+        "address": "484 W 12th Ave, Columbus, OH 43210, USA",
+        "latitude": 39.99659949999999,
+        "longitude": -83.0201012,
+        "google_place_id": "ChIJPejobmGPOIgRGvJy64uHPFc"
+    },
+    "Biological Sciences Greenhouses": {
+        "address": "Biological Sciences Greenhouses, 332 W 12th Ave, Columbus, OH 43210, USA",
+        "latitude": 39.99671920000001,
+        "longitude": -83.0174454,
+        "google_place_id": "ChIJUVy71ZSOOIgRqPypaYCcBoc"
+    },
+    "Biomedical Research Tower BT": {
+        "address": "460 W 12th Ave, Columbus, OH 43210, USA",
+        "latitude": 39.9965211,
+        "longitude": -83.01935519999999,
+        "google_place_id": "ChIJPzCdUuuOOIgRaPJ99_R1MLY"
+    },
+    "Blackburn House": {
+        "address": "Blackburn House, 136 W Woodruff Ave, Columbus, OH 43210, USA",
+        "latitude": 40.0041155,
+        "longitude": -83.0125709,
+        "google_place_id": "ChIJtfQyBL2OOIgRe9ismdxJnR0"
+    },
+    "Blackwell Inn": {
+        "address": "2110 Tuttle Park Pl, Columbus, OH 43210, USA",
+        "latitude": 40.0046792,
+        "longitude": -83.01685599999999,
+        "google_place_id": "ChIJs7cTr5eOOIgROBNm-aL7iys"
+    },
+    "Blankenship Hall": {
+        "address": "Bus Shelter 14-Blankenship Hall, 901 Woody Hayes Dr, Columbus, OH 43210, USA",
+        "latitude": 40.0023626,
+        "longitude": -83.0337041,
+        "google_place_id": "ChIJ9TE7eImOOIgRWrTvp9jypD8"
+    },
+    "Bloch Cancer Survivors Plaza": {
+        "address": "Bloch, R And A, Cancer Survivors Plaza, 2180 Olentangy River Rd, Columbus, OH 43210, USA",
+        "latitude": 40.0071847,
+        "longitude": -83.02268269999999,
+        "google_place_id": "ChIJBWLRf5qOOIgRlSPIPalwgHo"
+    },
+    "Bolz Hall BO": {
+        "address": "2036 Neil Ave Building 146, Columbus, OH 43210, USA",
+        "latitude": 40.0029152,
+        "longitude": -83.01530699999999,
+        "google_place_id": "EjMyMDM2IE5laWwgQXZlIEJ1aWxkaW5nIDE0NiwgQ29sdW1idXMsIE9IIDQzMjEwLCBVU0EiKBomChYKFAoSCQ9X9haWjjiIEbRobxI3cRYFEgxCdWlsZGluZyAxNDY"
+    },
+    "Bowen House": {
+        "address": "Bowen House, 2125 N High St, Columbus, OH 43210, USA",
+        "latitude": 40.0053267,
+        "longitude": -83.0094062,
+        "google_place_id": "ChIJDZyVoLyOOIgRdO208DEVTqw"
+    },
+    "Bradley Hall": {
+        "address": "221 w 12th Ave, Columbus, OH 43210, USA",
+        "latitude": 39.996943,
+        "longitude": -83.013476,
+        "google_place_id": "ChIJHYR47b-OOIgRHIYmX4MiyXo"
+    },
+    "Brain and Spine Hospital": {
+        "address": "300 W 10th Ave Building 372, Columbus, OH 43210, USA",
+        "latitude": 39.99560779999999,
+        "longitude": -83.01623579999999,
+        "google_place_id": "EjQzMDAgVyAxMHRoIEF2ZSBCdWlsZGluZyAzNzIsIENvbHVtYnVzLCBPSCA0MzIxMCwgVVNBIigaJgoWChQKEglB9IM76444iBGCMD9cAbbrBxIMQnVpbGRpbmcgMzcy"
+    },
+    "Bricker Hall BK": {
+        "address": "Bricker Hall, 190 N Oval Mall building 001, Columbus, OH 43210, USA",
+        "latitude": 40.00066,
+        "longitude": -83.01339349999999,
+        "google_place_id": "ChIJAQDAEr6OOIgRZjokfSsMtP0"
+    },
+    "Browning Amphitheater": {},
+    "Bruegger's Bagels": {
+        "address": "1630 Neil Ave Building 872, Columbus, OH 43201, USA",
+        "latitude": 39.9946597,
+        "longitude": -83.01421719999999,
+        "google_place_id": "EjMxNjMwIE5laWwgQXZlIEJ1aWxkaW5nIDg3MiwgQ29sdW1idXMsIE9IIDQzMjAxLCBVU0EiKBomChYKFAoSCfeHayTAjjiIEeNDp04xDGmMEgxCdWlsZGluZyA4NzI"
+    },
+    "Buckeye Field": {
+        "address": "Buckeye Field, 2410 Fred Taylor Dr Building 108, Columbus, OH 43210, USA",
+        "latitude": 40.0117001,
+        "longitude": -83.02644509999999,
+        "google_place_id": "EkhCdWNrZXllIEZpZWxkLCAyNDEwIEZyZWQgVGF5bG9yIERyIEJ1aWxkaW5nIDEwOCwgQ29sdW1idXMsIE9IIDQzMjEwLCBVU0EiKBomChYKFAoSCf93LLuEjjiIEbUdGAaFySHmEgxCdWlsZGluZyAxMDg"
+    },
+    "Buckeye Village A - Cuyahoga Ct, 600-626": {
+        "address": "600 Cuyahoga Ct, Columbus, OH 43210, USA",
+        "latitude": 40.0175989,
+        "longitude": -83.0262135,
+        "google_place_id": "Eig2MDAgQ3V5YWhvZ2EgQ3QsIENvbHVtYnVzLCBPSCA0MzIxMCwgVVNBIjESLwoUChIJKXhboIKOOIgRuoBumYtP1ogQ2AQqFAoSCSl4W6CCjjiIEb0MsB1T_fr4"
+    },
+    "Buckeye Village Administration": {
+        "address": "2661 Defiance Dr, Columbus, OH 43210, USA",
+        "latitude": 40.0159094,
+        "longitude": -83.0274522,
+        "google_place_id": "ChIJTUzO8YKOOIgRDtbchioPNG8"
+    },
+    "Buckeye Village Community Center": {
+        "address": "Buckeye Village Community Center, 2724 Defiance Dr, Columbus, OH 43210, USA",
+        "latitude": 40.0151966,
+        "longitude": -83.02583179999999,
+        "google_place_id": "ChIJHWVX0YKOOIgR_GGSslkKOb4"
+    },
+    "Buckeye Village Recreation Hall": {
+        "address": "Buckeye Village Recreation Hall, 2704 Defiance Dr, Columbus, OH 43210, USA",
+        "latitude": 40.01456719999999,
+        "longitude": -83.0263611,
+        "google_place_id": "ChIJYWUQJIOOOIgRs643cphBuYc"
+    },
+    "Busch House": {
+        "address": "2115 N High St, Columbus, OH 43210, USA",
+        "latitude": 40.0047783,
+        "longitude": -83.0095741,
+        "google_place_id": "ChIJUQGrnryOOIgRAbYD4vwE4Tc"
+    },
+    "Caldwell Laboratory CL": {
+        "address": "Caldwell Laboratory, 2024 Neil Ave Building 026, Columbus, OH 43210, USA",
+        "latitude": 40.002438,
+        "longitude": -83.01500279999999,
+        "google_place_id": "EkhDYWxkd2VsbCBMYWJvcmF0b3J5LCAyMDI0IE5laWwgQXZlIEJ1aWxkaW5nIDAyNiwgQ29sdW1idXMsIE9IIDQzMjEwLCBVU0EiKBomChYKFAoSCUuk4huWjjiIEZVQzEnQMU1vEgxCdWlsZGluZyAwMjY"
+    },
+    "Campbell Hall CM": {
+        "address": "1787 Neil Ave Building 018, Columbus, OH 43210, USA",
+        "latitude": 39.9978153,
+        "longitude": -83.0155448,
+        "google_place_id": "EjMxNzg3IE5laWwgQXZlIEJ1aWxkaW5nIDAxOCwgQ29sdW1idXMsIE9IIDQzMjEwLCBVU0EiKBomChYKFAoSCbe5ummVjjiIES27CZQAiHXIEgxCdWlsZGluZyAwMTg"
+    },
+    "Campus Shop": {
+        "address": "Campus Shop, 2469 Wood Ave, Columbus, OH 43221, USA",
+        "latitude": 40.0100359,
+        "longitude": -83.0345852,
+        "google_place_id": "ChIJPahqoYeOOIgRpXdjwkHsfRQ"
+    },
+    "CampusParc": {
+        "address": "1560 S Campus Gateway, Columbus, OH 43201, USA",
+        "latitude": 39.9940929,
+        "longitude": -83.0059205,
+        "google_place_id": "ChIJ0dYsu8eOOIgReswCNDfzKx4"
+    },
+    "Canfield Hall": {
+        "address": "236 W 11th Ave Building 098, Columbus, OH 43210, USA",
+        "latitude": 39.9961364,
+        "longitude": -83.013612,
+        "google_place_id": "EjQyMzYgVyAxMXRoIEF2ZSBCdWlsZGluZyAwOTgsIENvbHVtYnVzLCBPSCA0MzIxMCwgVVNBIigaJgoWChQKEgmzzVSewo84iBFSAPcICwxYohIMQnVpbGRpbmcgMDk4"
+    },
+    "CBEC CB": {
+        "address": "151 W Woodruff Ave, Columbus, OH 43210, USA",
+        "latitude": 40.0034938,
+        "longitude": -83.0129989,
+        "google_place_id": "ChIJe5YQmb2OOIgRW6zg_jsu2sU"
+    },
+    "Celeste Laboratory of Chemistry CE": {
+        "address": "Celeste, Richard F, Laboratory Of Chemistry, 120 W 18th Ave, Columbus, OH 43210, USA",
+        "latitude": 40.0026973,
+        "longitude": -83.0117672,
+        "google_place_id": "ChIJzdRTSryOOIgRZvT_bsxwFo8"
+    },
+    "Center for Integrative Medicine": {
+        "address": "2000 Kenny Rd #2002, Columbus, OH 43221, USA",
+        "latitude": 40.0003192,
+        "longitude": -83.0341315,
+        "google_place_id": "ChIJK0PgWYqOOIgRGCY6-kysEco"
+    },
+    "Center of Science and Industry - COSI": {
+        "address": "333 W Broad St, Columbus, OH 43215, USA",
+        "latitude": 39.9593944,
+        "longitude": -83.0068458,
+        "google_place_id": "ChIJASyDeDmPOIgRSD9NTDhPliM"
+    },
+    "Central Service Building": {
+        "address": "2003 Millikin Rd Building 077, Columbus, OH 43210, USA",
+        "latitude": 40.0017648,
+        "longitude": -83.0165731,
+        "google_place_id": "EjYyMDAzIE1pbGxpa2luIFJkIEJ1aWxkaW5nIDA3NywgQ29sdW1idXMsIE9IIDQzMjEwLCBVU0EiKBomChYKFAoSCUcLHXeWjjiIEQPBAAnL3S0REgxCdWlsZGluZyAwNzc"
+    },
+    "Chadwick Arboretum": {},
+    "Child Care Center": {
+        "address": "725 Ackerman Rd, Columbus, OH 43202, USA",
+        "latitude": 40.0166963,
+        "longitude": -83.0283912,
+        "google_place_id": "ChIJAXgHYYKOOIgRHljIOt9pRXE"
+    },
+    "Cockins Hall CH": {
+        "address": "Cockins Hall, 1958 Neil Ave Building 063, Columbus, OH 43210, USA",
+        "latitude": 40.0012775,
+        "longitude": -83.0150304,
+        "google_place_id": "EkFDb2NraW5zIEhhbGwsIDE5NTggTmVpbCBBdmUgQnVpbGRpbmcgMDYzLCBDb2x1bWJ1cywgT0ggNDMyMTAsIFVTQSIoGiYKFgoUChIJYy4d_5WOOIgRC-1yaQecvpgSDEJ1aWxkaW5nIDA2Mw"
+    },
+    "Coffey Rd Sports Center": {
+        "address": "Sports Center, 1966 Coffey Rd Building 255, Columbus, OH 43210, USA",
+        "latitude": 40.0017463,
+        "longitude": -83.02595199999999,
+        "google_place_id": "EkNTcG9ydHMgQ2VudGVyLCAxOTY2IENvZmZleSBSZCBCdWlsZGluZyAyNTUsIENvbHVtYnVzLCBPSCA0MzIxMCwgVVNBIigaJgoWChQKEgm55Tz7jY44iBE5tIqtsIYYZBIMQnVpbGRpbmcgMjU1"
+    },
+    "Comprehensive Cancer Center": {
+        "address": "Tzagournis Medical Research Facility, 410 W 12th Ave, Columbus, OH 43210, USA",
+        "latitude": 39.9966799,
+        "longitude": -83.0183418,
+        "google_place_id": "ChIJNTZSy5SOOIgRZ8TMrvgssWw"
+    },
+    "Converse Hall CV": {
+        "address": "Converse, George L, Hall, 2121 Tuttle Park Pl, Columbus, OH 43210, USA",
+        "latitude": 40.0052209,
+        "longitude": -83.0173276,
+        "google_place_id": "ChIJLbecCZeOOIgR78PecZ0NvFA"
+    },
+    "Cryogenic Laboratory": {
+        "address": "1286 Kinnear Rd Building 140, Columbus, OH 43212, USA",
+        "latitude": 39.9982643,
+        "longitude": -83.0426935,
+        "google_place_id": "EjUxMjg2IEtpbm5lYXIgUmQgQnVpbGRpbmcgMTQwLCBDb2x1bWJ1cywgT0ggNDMyMTIsIFVTQSIoGiYKFgoUChIJTaf1XmeOOIgRXAJc5Kg5PHUSDEJ1aWxkaW5nIDE0MA"
+    },
+    "Cunz Hall CZ": {
+        "address": "Cunz Hall, 1841 Neil Ave Building 293, Columbus, OH 43210, USA",
+        "latitude": 39.9986803,
+        "longitude": -83.0170304,
+        "google_place_id": "Ej5DdW56IEhhbGwsIDE4NDEgTmVpbCBBdmUgQnVpbGRpbmcgMjkzLCBDb2x1bWJ1cywgT0ggNDMyMTAsIFVTQSIoGiYKFgoUChIJ3fbzA5WOOIgRm3ILB7rW4z8SDEJ1aWxkaW5nIDI5Mw"
+    },
+    "Curl Hall": {
+        "address": "80 W Woodruff Ave, Columbus, OH 43210, USA",
+        "latitude": 40.0043009,
+        "longitude": -83.0109172,
+        "google_place_id": "ChIJfemD8byOOIgROEAOmz-0DbA"
+    },
+    "Davis Heart and Lung Research Institute HR": {
+        "address": "Davis Heart and Lung Research Institute, 473 W 12th Ave, Columbus, OH 43210, USA",
+        "latitude": 39.9957039,
+        "longitude": -83.0192788,
+        "google_place_id": "ChIJ9yWZROuOOIgRrf3WboeT7K0"
+    },
+    "Davis Medical Research Center DV": {
+        "address": "480 Medical Center Dr, Columbus, OH 43210, USA",
+        "latitude": 39.9927699,
+        "longitude": -83.0199233,
+        "google_place_id": "ChIJw_oY9euOOIgR_uaBQVLFf44"
+    },
+    "Davis Tower": {
+        "address": "Columbus, OH 43210, USA",
+        "latitude": 39.9990626,
+        "longitude": -83.01733860000002,
+        "google_place_id": "ChIJqS2kpY-OOIgRFnTLCrszXxo"
+    },
+    "Denney Hall DE": {},
+    "Derby Hall DB": {
+        "address": "Derby Hall, 154 N Oval Mall Building 025, Columbus, OH 43210, USA",
+        "latitude": 40.0006858,
+        "longitude": -83.0123416,
+        "google_place_id": "EkFEZXJieSBIYWxsLCAxNTQgTiBPdmFsIE1hbGwgQnVpbGRpbmcgMDI1LCBDb2x1bWJ1cywgT0ggNDMyMTAsIFVTQSIoGiYKFgoUChIJYRpqe76OOIgRNfjlI3DyqWwSDEJ1aWxkaW5nIDAyNQ"
+    },
+    "Doan Hall DN": {
+        "address": "410 W 10th Ave Building 089, Columbus, OH 43210, USA",
+        "latitude": 39.9951668,
+        "longitude": -83.0177027,
+        "google_place_id": "EjQ0MTAgVyAxMHRoIEF2ZSBCdWlsZGluZyAwODksIENvbHVtYnVzLCBPSCA0MzIxMCwgVVNBIigaJgoWChQKEgnvZpMG6444iBHb3UwFc3zoEhIMQnVpbGRpbmcgMDg5"
+    },
+    "Dodd Hall DO": {
+        "address": "480 Medical Center Dr, Columbus, OH 43210, USA",
+        "latitude": 39.9927699,
+        "longitude": -83.0199233,
+        "google_place_id": "ChIJw_oY9euOOIgR_uaBQVLFf44"
+    },
+    "Dodridge St, 250 W": {
+        "address": "250 w Dodridge St, Columbus, OH 43202, USA",
+        "latitude": 40.016199,
+        "longitude": -83.018068,
+        "google_place_id": "ChIJC8byOp6OOIgREY7lJB2PIb4"
+    },
+    "Doric on Lane": {
+        "address": "150 W Lane Ave Building 2563, Columbus, OH 43201, USA",
+        "latitude": 40.006412,
+        "longitude": -83.0135186,
+        "google_place_id": "EjUxNTAgVyBMYW5lIEF2ZSBCdWlsZGluZyAyNTYzLCBDb2x1bWJ1cywgT0ggNDMyMDEsIFVTQSIpGicKFgoUChIJAxo6taKOOIgRu3wAj7_KO0USDUJ1aWxkaW5nIDI1NjM"
+    },
+    "Drackett Tower": {
+        "address": "Drackett Tower, 191 W Lane Ave, Columbus, OH 43210, USA",
+        "latitude": 40.0054579,
+        "longitude": -83.0135614,
+        "google_place_id": "ChIJm_DXRr2OOIgR-P0gPVRYJBs"
+    },
+    "Drake Performance and Event Center DR": {
+        "address": "Drake Performance and Event Center, 1849 Cannon Dr, Columbus, OH 43210, USA",
+        "latitude": 39.9992889,
+        "longitude": -83.0231481,
+        "google_place_id": "ChIJF27v-JKOOIgRR6bF8OlMYcQ"
+    },
+    "Dreese Laboratories DL": {
+        "address": "Dreese Laboratories, 2015 Neil Ave Building 279, Columbus, OH 43210, USA",
+        "latitude": 40.0023193,
+        "longitude": -83.0159185,
+        "google_place_id": "EkhEcmVlc2UgTGFib3JhdG9yaWVzLCAyMDE1IE5laWwgQXZlIEJ1aWxkaW5nIDI3OSwgQ29sdW1idXMsIE9IIDQzMjEwLCBVU0EiKBomChYKFAoSCT0rQ22WjjiIEVJ4ZjPogYalEgxCdWlsZGluZyAyNzk"
+    },
+    "Drinko Hall DI": {
+        "address": "55 W 12th Ave, Columbus, OH 43210, USA",
+        "latitude": 39.9961107,
+        "longitude": -83.0081752,
+        "google_place_id": "ChIJHxtaoLiOOIgRRBH4c1jpBRU"
+    },
+    "Dulles Hall DU": {},
+    "Edison Joining Technology Center ED": {
+        "address": "1248 Arthur E Adams Dr, Columbus, OH 43221, USA",
+        "latitude": 40.0059883,
+        "longitude": -83.0429796,
+        "google_place_id": "ChIJO8DECWSOOIgREOkPFOKzqXM"
+    },
+    "Eighteenth Ave, 209 W EA": {
+        "address": "209 W. 18th Avenue, 209 W 18th Ave, Columbus, OH 43210, USA",
+        "latitude": 40.001546,
+        "longitude": -83.014191,
+        "google_place_id": "ChIJU4cI_b2OOIgRd78yB1xFZ6Y"
+    },
+    "Eighteenth Avenue Library SE": {
+        "address": "18th Avenue Library, 175 W 18th Ave, Columbus, OH 43210, USA",
+        "latitude": 40.0016133,
+        "longitude": -83.0133087,
+        "google_place_id": "ChIJgde84L2OOIgR96WuQZD-5vk"
+    },
+    "ElectroScience Laboratory": {
+        "address": "1320 Kinnear Rd Building 009, Columbus, OH 43221, USA",
+        "latitude": 39.9992942,
+        "longitude": -83.0451298,
+        "google_place_id": "ChIJk2mKlmeOOIgRm6QZogbB9cU"
+    },
+    "ElectroScience Laboratory Complex ESL": {
+        "address": "1330 Kinnear Rd Building 977, Columbus, OH 43212, USA",
+        "latitude": 39.9988074,
+        "longitude": -83.0452025,
+        "google_place_id": "EjUxMzMwIEtpbm5lYXIgUmQgQnVpbGRpbmcgOTc3LCBDb2x1bWJ1cywgT0ggNDMyMTIsIFVTQSIoGiYKFgoUChIJT51wf2eOOIgRUD1PG_1ScJISDEJ1aWxkaW5nIDk3Nw"
+    },
+    "Eleventh Ave, 235-243 W": {},
+    "Eleventh Ave, 33 W": {
+        "address": "33 West 11th Avenue, 33 W 11th Ave Building 193, Columbus, OH 43201, USA",
+        "latitude": 39.9950315,
+        "longitude": -83.0080631,
+        "google_place_id": "EkgzMyBXZXN0IDExdGggQXZlbnVlLCAzMyBXIDExdGggQXZlIEJ1aWxkaW5nIDE5MywgQ29sdW1idXMsIE9IIDQzMjAxLCBVU0EiKBomChYKFAoSCcUJAkLHjjiIERgwnYP0WsIqEgxCdWlsZGluZyAxOTM"
+    },
+    "Eleventh Ave, 45 W": {
+        "address": "45 W 11th Ave Building 964, Columbus, OH 43201, USA",
+        "latitude": 39.9951417,
+        "longitude": -83.0085668,
+        "google_place_id": "EjM0NSBXIDExdGggQXZlIEJ1aWxkaW5nIDk2NCwgQ29sdW1idXMsIE9IIDQzMjAxLCBVU0EiKBomChYKFAoSCYEAhUXHjjiIEewHjuIAtYk6EgxCdWlsZGluZyA5NjQ"
+    },
+    "Eleventh Ave, 53 W": {
+        "address": "53 W 11th Ave Building 902, Columbus, OH 43201, USA",
+        "latitude": 39.9951518,
+        "longitude": -83.0087346,
+        "google_place_id": "EjM1MyBXIDExdGggQXZlIEJ1aWxkaW5nIDkwMiwgQ29sdW1idXMsIE9IIDQzMjAxLCBVU0EiKBomChYKFAoSCZvDD0_HjjiIEYlDtNOXitUnEgxCdWlsZGluZyA5MDI"
+    },
+    "Enarson Classroom Building EC": {
+        "address": "2009 Millikin Rd Building 072, Columbus, OH 43210, USA",
+        "latitude": 40.0011843,
+        "longitude": -83.01665229999999,
+        "google_place_id": "EjYyMDA5IE1pbGxpa2luIFJkIEJ1aWxkaW5nIDA3MiwgQ29sdW1idXMsIE9IIDQzMjEwLCBVU0EiKBomChYKFAoSCddOnNCVjjiIEdw7JjHAUg1hEgxCdWlsZGluZyAwNzI"
+    },
+    "Evans Hall": {
+        "address": "Evans Hall, 520 King Ave, Columbus, OH 43201, USA",
+        "latitude": 39.9910122,
+        "longitude": -83.0201281,
+        "google_place_id": "ChIJS_4ure6OOIgRMjwALEdPwpI"
+    },
+    "Evans Laboratory EL": {
+        "address": "88 W 18th Ave, Columbus, OH 43210, USA",
+        "latitude": 40.0023651,
+        "longitude": -83.01088349999999,
+        "google_place_id": "ChIJh_zxRryOOIgRU7zuuN6xEJw"
+    },
+    "Faculty Club": {
+        "address": "181 S Oval Mall Building 028, Columbus, OH 43210, USA",
+        "latitude": 39.9986239,
+        "longitude": -83.0135798,
+        "google_place_id": "EjUxODEgUyBPdmFsIE1hbGwgQnVpbGRpbmcgMDI4LCBDb2x1bWJ1cywgT0ggNDMyMTAsIFVTQSJDGkEKMRIvChQKEgl9R2LKv444iBG-LHeWzg165BC1ASoUChIJB1sZrb-OOIgRsDfFptG9HH0SDEJ1aWxkaW5nIDAyOA"
+    },
+    "Fawcett Center for Tomorrow CT": {
+        "address": "Fawcett Center For Tomorrow, Novice G, 2400 Olentangy River Rd, Columbus, OH 43210, USA",
+        "latitude": 40.0107168,
+        "longitude": -83.0208808,
+        "google_place_id": "ChIJ53VjwpuOOIgR5VqpFvuPqQg"
+    },
+    "Fechko Alumnae Scholarship House": {
+        "address": "Fechko Alumnae Scholarship House, 220 W 11th Ave, Columbus, OH 43210, USA",
+        "latitude": 39.9958432,
+        "longitude": -83.0132466,
+        "google_place_id": "ChIJNSwjc8COOIgR-Ge964Cw8l0"
+    },
+    "Fisher Commons": {
+        "address": "W Lane Ave & Kenny Rd, Columbus, OH 43221, USA",
+        "latitude": 40.0067227,
+        "longitude": -83.0342079,
+        "google_place_id": "Ei5XIExhbmUgQXZlICYgS2VubnkgUmQsIENvbHVtYnVzLCBPSCA0MzIyMSwgVVNBImYiZAoUChIJZ4_zaIiOOIgRoqm-zqbzQYMSFAoSCWeP82iIjjiIEaKpvs6m80GDGhQKEgljKgAPZY44iBFHY-o1OEklAxoUChIJPbQxl9aNOIgRvaguX9UriD0iCg2bitgXFUH8gc4"
+    },
+    "Fisher Hall FI": {
+        "address": "2100 Neil Ave Building 249, Columbus, OH 43210, USA",
+        "latitude": 40.0049783,
+        "longitude": -83.01605219999999,
+        "google_place_id": "ChIJsba9uJeOOIgRrnlGV-tSSR0"
+    },
+    "Flight Laboratory": {
+        "address": "2160 W Case Rd Building 235, Columbus, OH 43235, USA",
+        "latitude": 40.0751505,
+        "longitude": -83.0751773,
+        "google_place_id": "EjQyMTYwIFcgQ2FzZSBSZCBCdWlsZGluZyAyMzUsIENvbHVtYnVzLCBPSCA0MzIzNSwgVVNBIigaJgoWChQKEglhnvJCZI04iBFYBbQ4fj35JBIMQnVpbGRpbmcgMjM1"
+    },
+    "Fontana Laboratories FL": {
+        "address": "140 W 19th Ave Building 1018, Columbus, OH 43210, USA",
+        "latitude": 40.0031566,
+        "longitude": -83.0124129,
+        "google_place_id": "EjUxNDAgVyAxOXRoIEF2ZSBCdWlsZGluZyAxMDE4LCBDb2x1bWJ1cywgT0ggNDMyMTAsIFVTQSIpGicKFgoUChIJY-VNsL2OOIgRLvVR1ZObn1ASDUJ1aWxkaW5nIDEwMTg"
+    },
+    "Fred Beekman Park": {},
+    "French Field House": {
+        "address": "French, Thomas E, Field House, 460 Woody Hayes Dr, Columbus, OH 43210, USA",
+        "latitude": 40.0053826,
+        "longitude": -83.0204066,
+        "google_place_id": "ChIJHd9CyZCOOIgRtVdTWdOjXgs"
+    },
+    "Fry Hall FR": {
+        "address": "338 W 10th Ave Building 059, Columbus, OH 43210, USA",
+        "latitude": 39.994515,
+        "longitude": -83.0165372,
+        "google_place_id": "EjQzMzggVyAxMHRoIEF2ZSBCdWlsZGluZyAwNTksIENvbHVtYnVzLCBPSCA0MzIxMCwgVVNBIigaJgoWChQKEgnFt-ju6o44iBESicyuzEvT2hIMQnVpbGRpbmcgMDU5"
+    },
+    "Galbreath Equine Center": {
+        "address": "Galbreath Equine Center, 685 Vernon L Tharp St, Columbus, OH 43210, USA",
+        "latitude": 40.0012072,
+        "longitude": -83.0287673,
+        "google_place_id": "ChIJmWqEN4yOOIgRPN4vDG_TArw"
+    },
+    "Gateway A": {
+        "address": "1595 N High St, Columbus, OH 43201, USA",
+        "latitude": 39.9947482,
+        "longitude": -83.0072879,
+        "google_place_id": "ChIJPWVUbceOOIgRh6j9AmEzh54"
+    },
+    "Gateway B": {
+        "address": "1620 N High St, Columbus, OH 43201, USA",
+        "latitude": 39.9952824,
+        "longitude": -83.0068295,
+        "google_place_id": "ChIJldmFeseOOIgR0pn1u4ZGnU4"
+    },
+    "Gateway C": {
+        "address": "1590 N High St, Columbus, OH 43201, USA",
+        "latitude": 39.9944072,
+        "longitude": -83.0062717,
+        "google_place_id": "ChIJy7erC8eOOIgRyNTD6Lcz-ao"
+    },
+    "Gateway D GW": {
+        "address": "1550 N High St, Columbus, OH 43201, USA",
+        "latitude": 39.9939971,
+        "longitude": -83.0066104,
+        "google_place_id": "ChIJfV22pMeOOIgRQmLyWhX7OoY"
+    },
+    "Gateway F - North": {
+        "address": "43 E 11th Ave, Columbus, OH 43201, USA",
+        "latitude": 39.9945911,
+        "longitude": -83.0055521,
+        "google_place_id": "ChIJiZ_clceOOIgRvMcfNGv27Ps"
+    },
+    "Gateway F - South": {
+        "address": "42 E 9th Ave, Columbus, OH 43201, USA",
+        "latitude": 39.9935804,
+        "longitude": -83.00541729999999,
+        "google_place_id": "ChIJrZ7VtceOOIgRPfM5Jy2ogSY"
+    },
+    "Gerlach Hall GE": {
+        "address": "Gerlach Graduate Programs Building, 2108 Neil Ave Building 250, Columbus, OH 43210, USA",
+        "latitude": 40.0049331,
+        "longitude": -83.0147427,
+        "google_place_id": "EldHZXJsYWNoIEdyYWR1YXRlIFByb2dyYW1zIEJ1aWxkaW5nLCAyMTA4IE5laWwgQXZlIEJ1aWxkaW5nIDI1MCwgQ29sdW1idXMsIE9IIDQzMjEwLCBVU0EiKBomChYKFAoSCe0XY9mXjjiIESNAJzcxKk4SEgxCdWlsZGluZyAyNTA"
+    },
+    "German House": {
+        "address": "German House, 141 W 11th Ave Building 965, Columbus, OH 43201, USA",
+        "latitude": 39.9952286,
+        "longitude": -83.01112049999999,
+        "google_place_id": "EkJHZXJtYW4gSG91c2UsIDE0MSBXIDExdGggQXZlIEJ1aWxkaW5nIDk2NSwgQ29sdW1idXMsIE9IIDQzMjAxLCBVU0EiKBomChYKFAoSCYPTcJHAjjiIETHZebtxleDTEgxCdWlsZGluZyA5NjU"
+    },
+    "Goss Laboratory GL": {
+        "address": "1925 Coffey Rd Suite 180, Columbus, OH 43210, USA",
+        "latitude": 39.9999331,
+        "longitude": -83.0275439,
+        "google_place_id": "ChIJCZLcqI2OOIgRikhKspvcWfY"
+    },
+    "Graves Hall GR": {
+        "address": "Newton Hall, 333 W 10th Ave Building 277, Columbus, OH 43210, USA",
+        "latitude": 39.9939443,
+        "longitude": -83.0151973,
+        "google_place_id": "EkFOZXd0b24gSGFsbCwgMzMzIFcgMTB0aCBBdmUgQnVpbGRpbmcgMjc3LCBDb2x1bWJ1cywgT0ggNDMyMTAsIFVTQSIoGiYKFgoUChIJjYG8h-qOOIgRdsw-Ulo5mRESDEJ1aWxkaW5nIDI3Nw"
+    },
+    "Hagerty Hall HH": {
+        "address": "1775 College Rd, Columbus, OH 43210, USA",
+        "latitude": 39.9987848,
+        "longitude": -83.009892,
+        "google_place_id": "EigxNzc1IENvbGxlZ2UgUmQsIENvbHVtYnVzLCBPSCA0MzIxMCwgVVNBIjESLwoUChIJI8Wd176OOIgRV1732xavZT0Q7w0qFAoSCY_y5DW_jjiIEZsrtRYfSxTr"
+    },
+    "Hale Hall FWH": {
+        "address": "154 W 12th Ave, Columbus, OH 43210, USA",
+        "latitude": 39.9970101,
+        "longitude": -83.01175669999999,
+        "google_place_id": "ChIJk1Xydr-OOIgR9Hmlp1lJSQI"
+    },
+    "Halloran House": {
+        "address": "Halloran House, 60 W Woodruff Ave, Columbus, OH 43210, USA",
+        "latitude": 40.0046024,
+        "longitude": -83.01034279999999,
+        "google_place_id": "ChIJS8_Tk7yOOIgRT5xhxwYa7FI"
+    },
+    "Hamilton Hall HM": {
+        "address": "Hamilton Hall, 1645 Neil Ave Building 038, Columbus, OH 43210, USA",
+        "latitude": 39.995053,
+        "longitude": -83.0150304,
+        "google_place_id": "EkJIYW1pbHRvbiBIYWxsLCAxNjQ1IE5laWwgQXZlIEJ1aWxkaW5nIDAzOCwgQ29sdW1idXMsIE9IIDQzMjEwLCBVU0EiKBomChYKFAoSCcM-UZjqjjiIEZJo4LXtmdEFEgxCdWlsZGluZyAwMzg"
+    },
+    "Hanley Alumnae Scholarship House": {
+        "address": "Hanely Alumnae Scholarship House, 225 W 10th Ave Building 864, Columbus, OH 43201, USA",
+        "latitude": 39.9940798,
+        "longitude": -83.0131207,
+        "google_place_id": "ElZIYW5lbHkgQWx1bW5hZSBTY2hvbGFyc2hpcCBIb3VzZSwgMjI1IFcgMTB0aCBBdmUgQnVpbGRpbmcgODY0LCBDb2x1bWJ1cywgT0ggNDMyMDEsIFVTQSIoGiYKFgoUChIJBU9yScCOOIgRgdw2AvWeyVQSDEJ1aWxkaW5nIDg2NA"
+    },
+    "Harding Hospital": {
+        "address": "Ohio State University Harding Hospital, 1670 Upham Dr Building 165, Columbus, OH 43210, USA",
+        "latitude": 39.995672,
+        "longitude": -83.01997899999999,
+        "google_place_id": "EltPaGlvIFN0YXRlIFVuaXZlcnNpdHkgSGFyZGluZyBIb3NwaXRhbCwgMTY3MCBVcGhhbSBEciBCdWlsZGluZyAxNjUsIENvbHVtYnVzLCBPSCA0MzIxMCwgVVNBIigaJgoWChQKEgnPOy6j7I44iBHycpgOa03HqRIMQnVpbGRpbmcgMTY1"
+    },
+    "Haverfield House": {
+        "address": "Haverfield House, 112 W Woodruff Ave, Columbus, OH 43210, USA",
+        "latitude": 40.0041172,
+        "longitude": -83.0118406,
+        "google_place_id": "ChIJlYJQ-byOOIgR4roOFJRtPx4"
+    },
+    "Hayes Hall HA": {
+        "address": "Hayes Hall, 108 N Oval Mall Building 039, Columbus, OH 43210, USA",
+        "latitude": 40.000485,
+        "longitude": -83.0111639,
+        "google_place_id": "EkFIYXllcyBIYWxsLCAxMDggTiBPdmFsIE1hbGwgQnVpbGRpbmcgMDM5LCBDb2x1bWJ1cywgT0ggNDMyMTAsIFVTQSIoGiYKFgoUChIJ99eAkL6OOIgRLNaAx634GSASDEJ1aWxkaW5nIDAzOQ"
+    },
+    "Heffner Wetland Research and Education HW": {
+        "address": "Commercial Building On Dodridge, 352 W Dodridge St, Columbus, OH 43202, USA",
+        "latitude": 40.0180535,
+        "longitude": -83.0190921,
+        "google_place_id": "ChIJl9kyuSCMOIgRIZxLceo0ejM"
+    },
+    "Herrick Dr, 393": {
+        "address": "393 John H Herrick Dr, Columbus, OH 43210, USA",
+        "latitude": 39.9971516,
+        "longitude": -83.0179932,
+        "google_place_id": "Ei4zOTMgSm9obiBIIEhlcnJpY2sgRHIsIENvbHVtYnVzLCBPSCA0MzIxMCwgVVNBIjESLwoUChIJd33OyJSOOIgRU9BigZbcP90QiQMqFAoSCQs2vPKNjjiIETCLGy4n4gCX"
+    },
+    "Highland St, 1615": {
+        "address": "1615 Highland St, Columbus, OH 43201, USA",
+        "latitude": 39.9947962,
+        "longitude": -83.01110609999999,
+        "google_place_id": "ChIJudnd7MCOOIgRxhtcC82pGfU"
+    },
+    "Hitchcock Hall HI": {
+        "address": "Bolz Hall, 2070 Neil Ave Building 274, Columbus, OH 43210, USA",
+        "latitude": 40.0030379,
+        "longitude": -83.0149646,
+        "google_place_id": "Ej5Cb2x6IEhhbGwsIDIwNzAgTmVpbCBBdmUgQnVpbGRpbmcgMjc0LCBDb2x1bWJ1cywgT0ggNDMyMTAsIFVTQSIoGiYKFgoUChIJxwmXJZaOOIgRARumaScRw_USDEJ1aWxkaW5nIDI3NA"
+    },
+    "Hopkins Hall HC": {
+        "address": "Hopkins Hall, 128 N Oval Mall Building 149, Columbus, OH 43210, USA",
+        "latitude": 40.000946,
+        "longitude": -83.01120739999999,
+        "google_place_id": "EkNIb3BraW5zIEhhbGwsIDEyOCBOIE92YWwgTWFsbCBCdWlsZGluZyAxNDksIENvbHVtYnVzLCBPSCA0MzIxMCwgVVNBIigaJgoWChQKEgnPyuKEvo44iBFkucmZrBpkhRIMQnVpbGRpbmcgMTQ5"
+    },
+    "Houck House": {
+        "address": "61 W Lane Ave, Columbus, OH 43210, USA",
+        "latitude": 40.0052339,
+        "longitude": -83.0109454,
+        "google_place_id": "ChIJkZdfwryOOIgRKZvQVclhG3E"
+    },
+    "Houston House HOU": {
+        "address": "Houston House, 97 W Lane Ave, Columbus, OH 43210, USA",
+        "latitude": 40.0058353,
+        "longitude": -83.01188259999999,
+        "google_place_id": "ChIJX1Lt0LyOOIgRLPGFqomjX3o"
+    },
+    "Howlett Greenhouses HG": {
+        "address": "Howlett Greenhouses, 680 Vernon L Tharp St, Columbus, OH 43210, USA",
+        "latitude": 40.0021717,
+        "longitude": -83.02854310000001,
+        "google_place_id": "ChIJoXY5KYyOOIgRu_tBY2Dbz0U"
+    },
+    "Howlett Hall HT": {
+        "address": "2001 Fyffe Ct, Columbus, OH 43210, USA",
+        "latitude": 40.00334840000001,
+        "longitude": -83.02803399999999,
+        "google_place_id": "EiYyMDAxIEZ5ZmZlIEN0LCBDb2x1bWJ1cywgT0ggNDMyMTAsIFVTQSIxEi8KFAoSCYHHkl-OjjiIEcpFFMNtntRyENEPKhQKEgkJZndWjo44iBE4Qx7AIR-2sw"
+    },
+    "Hughes Hall HU": {
+        "address": "1899 College Rd N, Columbus, OH 43210, USA",
+        "latitude": 40.0010575,
+        "longitude": -83.0107383,
+        "google_place_id": "ChIJ6ZWFn76OOIgR_n71dh8rnz8"
+    },
+    "Ice Rink IR": {
+        "address": "390 Woody Hayes Dr, Columbus, OH 43210, USA",
+        "latitude": 40.0052742,
+        "longitude": -83.01824649999999,
+        "google_place_id": "ChIJq8YOF5eOOIgRUTcoJntuDf0"
+    },
+    "Independence Hall IH": {
+        "address": "Independence Hall, 1923 Neil Ave Building 338, Columbus, OH 43210, USA",
+        "latitude": 40.0003619,
+        "longitude": -83.0157504,
+        "google_place_id": "EkZJbmRlcGVuZGVuY2UgSGFsbCwgMTkyMyBOZWlsIEF2ZSBCdWlsZGluZyAzMzgsIENvbHVtYnVzLCBPSCA0MzIxMCwgVVNBIigaJgoWChQKEgn7dHLrlY44iBHsoGq7otslcxIMQnVpbGRpbmcgMzM4"
+    },
+    "Institute for Behavioral Medicine Research": {
+        "address": "Institute for Behavioral Medicine Research, 460 Medical Center Dr, Columbus, OH 43210, USA",
+        "latitude": 39.9929232,
+        "longitude": -83.0188314,
+        "google_place_id": "ChIJ6SsFleuOOIgRvX4TJPLKSMs"
+    },
+    "Internal Medicine and Pediatrics at Hilliard": {
+        "address": "3691 Ridge Mill Dr, Hilliard, OH 43026, USA",
+        "latitude": 40.0290182,
+        "longitude": -83.1130264,
+        "google_place_id": "ChIJSyTvFy-SOIgRst7GnS2FAyk"
+    },
+    "James Cancer Hospital": {
+        "address": "460 W 10th Ave Building 375, Columbus, OH 43210, USA",
+        "latitude": 39.9948839,
+        "longitude": -83.0199217,
+        "google_place_id": "EjQ0NjAgVyAxMHRoIEF2ZSBCdWlsZGluZyAzNzUsIENvbHVtYnVzLCBPSCA0MzIxMCwgVVNBIigaJgoWChQKEglv48Nm6444iBGmrvkKeq4cDhIMQnVpbGRpbmcgMzc1"
+    },
+    "Jameson Crane Sports Medicine Institute": {
+        "address": "2835 Fred Taylor Dr Building 1004, Columbus, OH 43202, USA",
+        "latitude": 40.01785960000001,
+        "longitude": -83.03135449999999,
+        "google_place_id": "EjoyODM1IEZyZWQgVGF5bG9yIERyIEJ1aWxkaW5nIDEwMDQsIENvbHVtYnVzLCBPSCA0MzIwMiwgVVNBIikaJwoWChQKEgnttC7jgY44iBHHeiNHPJ8gQhINQnVpbGRpbmcgMTAwNA"
+    },
+    "Jennings Hall JE": {
+        "address": "Jennings Hall, 1735 Neil Ave Building 014, Columbus, OH 43210, USA",
+        "latitude": 39.99680540000001,
+        "longitude": -83.0154428,
+        "google_place_id": "EkJKZW5uaW5ncyBIYWxsLCAxNzM1IE5laWwgQXZlIEJ1aWxkaW5nIDAxNCwgQ29sdW1idXMsIE9IIDQzMjEwLCBVU0EiKBomChYKFAoSCQFYpE6VjjiIERfE8fXxmzGMEgxCdWlsZGluZyAwMTQ"
+    },
+    "Jesse Owens Memorial Stadium": {
+        "address": "Jesse Owens Memorial Stadium, 2450 Fred Taylor Dr Building 092, Columbus, OH 43210, USA",
+        "latitude": 40.0123192,
+        "longitude": -83.0283821,
+        "google_place_id": "EldKZXNzZSBPd2VucyBNZW1vcmlhbCBTdGFkaXVtLCAyNDUwIEZyZWQgVGF5bG9yIERyIEJ1aWxkaW5nIDA5MiwgQ29sdW1idXMsIE9IIDQzMjEwLCBVU0EiKBomChYKFAoSCduGFX-EjjiIEYhbBOwhvgoyEgxCdWlsZGluZyAwOTI"
+    },
+    "Jesse Owens Recreation Center North": {
+        "address": "2151 Neil Ave Building 347, Columbus, OH 43210, USA",
+        "latitude": 40.0059079,
+        "longitude": -83.0150397,
+        "google_place_id": "EjMyMTUxIE5laWwgQXZlIEJ1aWxkaW5nIDM0NywgQ29sdW1idXMsIE9IIDQzMjEwLCBVU0EiKBomChYKFAoSCUO6T1i9jjiIEZjnnpBfIhtVEgxCdWlsZGluZyAzNDc"
+    },
+    "Jesse Owens Recreation Center South": {
+        "address": "175 W 11th Ave Building 348, Columbus, OH 43201, USA",
+        "latitude": 39.9949827,
+        "longitude": -83.01188259999999,
+        "google_place_id": "EjQxNzUgVyAxMXRoIEF2ZSBCdWlsZGluZyAzNDgsIENvbHVtYnVzLCBPSCA0MzIwMSwgVVNBIigaJgoWChQKEgm1S--KwI44iBGMSdbf6-mXUhIMQnVpbGRpbmcgMzQ4"
+    },
+    "Jesse Owens Tennis Center West": {
+        "address": "Jesse Owens Tennis Center West, 1031 Carmack Rd, Columbus, OH 43210, USA",
+        "latitude": 40.0015767,
+        "longitude": -83.03571079999999,
+        "google_place_id": "ChIJiRzzDIqOOIgROyOnpZOUewQ"
+    },
+    "Jesse Owens West Park": {},
+    "Jones Tower": {
+        "address": "123 W Lane Ave, Columbus, OH 43210, USA",
+        "latitude": 40.0052301,
+        "longitude": -83.0120003,
+        "google_place_id": "ChIJtdhUPL2OOIgRCekJsqAX4PY"
+    },
+    "Journalism Building JR": {
+        "address": "Caldwell Laboratory, 242 W 18th Ave, Columbus, OH 43210, USA",
+        "latitude": 40.002438,
+        "longitude": -83.01500279999999,
+        "google_place_id": "ChIJoYDgGpaOOIgRlRQtVxIfxE4"
+    },
+    "Kappa Kappa Gamma House": {
+        "address": "55 E 15th Ave, Columbus, OH 43201, USA",
+        "latitude": 39.9996061,
+        "longitude": -83.00650999999999,
+        "google_place_id": "ChIJPXwYoLmOOIgRJc_5yoU_wgQ"
+    },
+    "Kennedy Commons": {
+        "address": "251 W 12th Ave, Columbus, OH 43210, USA",
+        "latitude": 39.9965209,
+        "longitude": -83.01383200000001,
+        "google_place_id": "ChIJOw_9-b-OOIgRrq75GQxolQI"
+    },
+    "Kenny Rd, 1900": {
+        "address": "1900 Kenny Rd Building 232, Columbus, OH 43212, USA",
+        "latitude": 39.998413,
+        "longitude": -83.0343754,
+        "google_place_id": "EjMxOTAwIEtlbm55IFJkIEJ1aWxkaW5nIDIzMiwgQ29sdW1idXMsIE9IIDQzMjEyLCBVU0EiKBomChYKFAoSCTeOxFmKjjiIEVVZHZp-vaegEgxCdWlsZGluZyAyMzI"
+    },
+    "Kenny Rd, 2006-2030": {
+        "address": "2006 Kenny Rd #2030, Columbus, OH 43221, USA",
+        "latitude": 40.0002193,
+        "longitude": -83.033362,
+        "google_place_id": "ChIJh1wYq4uOOIgR1Z_NMrdAcfQ"
+    },
+    "Kepler Club House": {
+        "address": "3605 Tremont Rd Building 033, Columbus, OH 43221, USA",
+        "latitude": 40.0318863,
+        "longitude": -83.05304369999999,
+        "google_place_id": "EjUzNjA1IFRyZW1vbnQgUmQgQnVpbGRpbmcgMDMzLCBDb2x1bWJ1cywgT0ggNDMyMjEsIFVTQSIoGiYKFgoUChIJm-tincONOIgRGapfAcMSFlwSDEJ1aWxkaW5nIDAzMw"
+    },
+    "Kinnear Rd Center B": {
+        "address": "1121 Kinnear Rd Building 365, Columbus, OH 43210, USA",
+        "latitude": 39.99655,
+        "longitude": -83.0378997,
+        "google_place_id": "EjUxMTIxIEtpbm5lYXIgUmQgQnVpbGRpbmcgMzY1LCBDb2x1bWJ1cywgT0ggNDMyMTAsIFVTQSIoGiYKFgoUChIJ5Sa3x1-OOIgRaDSk29GZRKESDEJ1aWxkaW5nIDM2NQ"
+    },
+    "Kinnear Rd Center C": {
+        "address": "1121 Kinnear Rd Building 366, Columbus, OH 43210, USA",
+        "latitude": 39.99655,
+        "longitude": -83.0378997,
+        "google_place_id": "EjUxMTIxIEtpbm5lYXIgUmQgQnVpbGRpbmcgMzY2LCBDb2x1bWJ1cywgT0ggNDMyMTAsIFVTQSIoGiYKFgoUChIJ5Sa3x1-OOIgRaDSk29GZRKESDEJ1aWxkaW5nIDM2Ng"
+    },
+    "Kinnear Rd Center D": {
+        "address": "Building D, 1099 Kinnear Rd Building 367, Columbus, OH 43210, USA",
+        "latitude": 39.99730570000001,
+        "longitude": -83.0378578,
+        "google_place_id": "EkFCdWlsZGluZyBELCAxMDk5IEtpbm5lYXIgUmQgQnVpbGRpbmcgMzY3LCBDb2x1bWJ1cywgT0ggNDMyMTAsIFVTQSIoGiYKFgoUChIJ9bCX21-OOIgRbIROhcaHm3QSDEJ1aWxkaW5nIDM2Nw"
+    },
+    "Kinnear Rd Center E": {
+        "address": "1121 Kinnear Rd Building 368, Columbus, OH 43210, USA",
+        "latitude": 39.99655,
+        "longitude": -83.0378997,
+        "google_place_id": "EjUxMTIxIEtpbm5lYXIgUmQgQnVpbGRpbmcgMzY4LCBDb2x1bWJ1cywgT0ggNDMyMTAsIFVTQSIoGiYKFgoUChIJ5Sa3x1-OOIgRaDSk29GZRKESDEJ1aWxkaW5nIDM2OA"
+    },
+    "Kinnear Rd, 1100 KI": {
+        "address": "1100 Kinnear Rd Building 373, Columbus, OH 43212, USA",
+        "latitude": 39.9987745,
+        "longitude": -83.0377319,
+        "google_place_id": "EjUxMTAwIEtpbm5lYXIgUmQgQnVpbGRpbmcgMzczLCBDb2x1bWJ1cywgT0ggNDMyMTIsIFVTQSIoGiYKFgoUChIJ-_LCa2COOIgRgDavezKTVfkSDEJ1aWxkaW5nIDM3Mw"
+    },
+    "Kinnear Rd, 1165 LTC": {
+        "address": "1165 Kinnear Rd #932, Grandview Heights, OH 43212, USA",
+        "latitude": 39.9978039,
+        "longitude": -83.03941119999999,
+        "google_place_id": "ChIJb3QYKF6OOIgRucY-nYQKZJ8"
+    },
+    "Kinnear Rd, 1212-1218": {
+        "address": "1212 Kinnear Rd Building 378, Columbus, OH 43212, USA",
+        "latitude": 39.9992699,
+        "longitude": -83.0404236,
+        "google_place_id": "EjUxMjEyIEtpbm5lYXIgUmQgQnVpbGRpbmcgMzc4LCBDb2x1bWJ1cywgT0ggNDMyMTIsIFVTQSIoGiYKFgoUChIJv3F2v2COOIgRnBZnEdzhZikSDEJ1aWxkaW5nIDM3OA"
+    },
+    "Kinnear Rd, 1224 KR": {
+        "address": "1224 Kinnear Rd Building 374, Columbus, OH 43212, USA",
+        "latitude": 39.9999131,
+        "longitude": -83.0400389,
+        "google_place_id": "EjUxMjI0IEtpbm5lYXIgUmQgQnVpbGRpbmcgMzc0LCBDb2x1bWJ1cywgT0ggNDMyMTIsIFVTQSIoGiYKFgoUChIJP5W652COOIgRGD36CLaqbyYSDEJ1aWxkaW5nIDM3NA"
+    },
+    "Kinnear Rd, 1245-1255": {
+        "address": "1245 Kinnear Rd Building 1260, Columbus, OH 43212, USA",
+        "latitude": 39.9971559,
+        "longitude": -83.04133999999999,
+        "google_place_id": "EjYxMjQ1IEtpbm5lYXIgUmQgQnVpbGRpbmcgMTI2MCwgQ29sdW1idXMsIE9IIDQzMjEyLCBVU0EiKRonChYKFAoSCbUCIvtdjjiIEQMHXNcoO7O0Eg1CdWlsZGluZyAxMjYw"
+    },
+    "Kinnear Rd, 1260": {
+        "address": "1260 Kinnear Rd Building 128, Columbus, OH 43221, USA",
+        "latitude": 39.9982035,
+        "longitude": -83.0419337,
+        "google_place_id": "EjUxMjYwIEtpbm5lYXIgUmQgQnVpbGRpbmcgMTI4LCBDb2x1bWJ1cywgT0ggNDMyMjEsIFVTQSJDGkEKMRIvChQKEgnDFyxYZ444iBHlsCEvuZvlUBDsCSoUChIJ1wvj3V-OOIgR-JrC0lAGnl4SDEJ1aWxkaW5nIDEyOA"
+    },
+    "Kinnear Rd, 1275-1305": {
+        "address": "1275 Kinnear Rd Building 395, Columbus, OH 43212, USA",
+        "latitude": 39.99706680000001,
+        "longitude": -83.04251459999999,
+        "google_place_id": "EjUxMjc1IEtpbm5lYXIgUmQgQnVpbGRpbmcgMzk1LCBDb2x1bWJ1cywgT0ggNDMyMTIsIFVTQSIoGiYKFgoUChIJIYo9-12OOIgRR9WiX1nG0V0SDEJ1aWxkaW5nIDM5NQ"
+    },
+    "Kinnear Rd, 1315 MB": {
+        "address": "1315 Kinnear Rd Building 951, Columbus, OH 43212, USA",
+        "latitude": 39.9971475,
+        "longitude": -83.0438571,
+        "google_place_id": "EjUxMzE1IEtpbm5lYXIgUmQgQnVpbGRpbmcgOTUxLCBDb2x1bWJ1cywgT0ggNDMyMTIsIFVTQSIoGiYKFgoUChIJAxmPnl2OOIgRC8S7XWhUiCwSDEJ1aWxkaW5nIDk1MQ"
+    },
+    "Kinnear Rd, 760": {
+        "address": "760 Kinnear Rd, 760 Kinnear Rd Building 963, Columbus, OH 43212, USA",
+        "latitude": 39.9980629,
+        "longitude": -83.0291239,
+        "google_place_id": "EkQ3NjAgS2lubmVhciBSZCwgNzYwIEtpbm5lYXIgUmQgQnVpbGRpbmcgOTYzLCBDb2x1bWJ1cywgT0ggNDMyMTIsIFVTQSIoGiYKFgoUChIJCaNkxoyOOIgRPPi76Nvgt48SDEJ1aWxkaW5nIDk2Mw"
+    },
+    "Kinnear Rd, 930 CAR": {
+        "address": "930 Kinnear Road, 930 Kinnear Rd Building 227, Columbus, OH 43212, USA",
+        "latitude": 39.99827980000001,
+        "longitude": -83.0327459,
+        "google_place_id": "EkY5MzAgS2lubmVhciBSb2FkLCA5MzAgS2lubmVhciBSZCBCdWlsZGluZyAyMjcsIENvbHVtYnVzLCBPSCA0MzIxMiwgVVNBIigaJgoWChQKEgkF-9Qki444iBH2OSUjGFjojxIMQnVpbGRpbmcgMjI3"
+    },
+    "Kinnear Rd, 960": {
+        "address": "960 Kinnear Rd Building 931, Columbus, OH 43212, USA",
+        "latitude": 39.9985322,
+        "longitude": -83.0337041,
+        "google_place_id": "EjQ5NjAgS2lubmVhciBSZCBCdWlsZGluZyA5MzEsIENvbHVtYnVzLCBPSCA0MzIxMiwgVVNBIigaJgoWChQKEgktk5_gio44iBHL6UYnuU_R8BIMQnVpbGRpbmcgOTMx"
+    },
+    "Knight House": {
+        "address": "Knight, George Wells, House, 104 E 15th Ave, Columbus, OH 43201, USA",
+        "latitude": 40.0002112,
+        "longitude": -83.0051332,
+        "google_place_id": "ChIJIe1-7bmOOIgR8qgQMfeI8Qo"
+    },
+    "Knowlton Hall KN": {
+        "address": "Knowlton Hall, 275 W Woodruff Ave, Columbus, OH 43210, USA",
+        "latitude": 40.0035889,
+        "longitude": -83.0169161,
+        "google_place_id": "ChIJmazkSpaOOIgRdpZ6P8hS94Q"
+    },
+    "Kottman Hall KH": {
+        "address": "2021 Coffey Rd Building 340, Columbus, OH 43210, USA",
+        "latitude": 40.0027464,
+        "longitude": -83.0268227,
+        "google_place_id": "EjQyMDIxIENvZmZleSBSZCBCdWlsZGluZyAzNDAsIENvbHVtYnVzLCBPSCA0MzIxMCwgVVNBIigaJgoWChQKEglP-N3fjY44iBHrAnwmub6pVhIMQnVpbGRpbmcgMzQw"
+    },
+    "Kuhn Honors and Scholars House HN": {
+        "address": "Kuhn Honors and Scholars House, 220 W 12th Ave, Columbus, OH 43210, USA",
+        "latitude": 39.9973458,
+        "longitude": -83.0133516,
+        "google_place_id": "ChIJawM767-OOIgR9X2i5adbnlc"
+    },
+    "Kunz-Brundige Extension Building KB": {
+        "address": "Kunz-Brundige Franklin County Extension Building, 2548 Carmack Rd, Columbus, OH 43210, USA",
+        "latitude": 40.0110629,
+        "longitude": -83.0377319,
+        "google_place_id": "ChIJ21PZo32OOIgRNpgXAkhOc58"
+    },
+    "Lane Ave, 121 W": {
+        "address": "121 W Lane Ave, Columbus, OH 43210, USA",
+        "latitude": 40.0059153,
+        "longitude": -83.012605,
+        "google_place_id": "ChIJUe7aL72OOIgRe_UWVQ9OWCQ"
+    },
+    "Lane Ave, 127 W": {
+        "address": "Columbus, OH 43210, USA",
+        "latitude": 39.9990626,
+        "longitude": -83.01733860000002,
+        "google_place_id": "ChIJqS2kpY-OOIgRFnTLCrszXxo"
+    },
+    "Lane Ave, 1480 W": {
+        "address": "1480 W. Lane Avenue, 1480 W Lane Ave, Upper Arlington, OH 43221, USA",
+        "latitude": 40.007274,
+        "longitude": -83.04951270000001,
+        "google_place_id": "ChIJz2EqtW-OOIgRsOB8ZwlMsTk"
+    },
+    "Laundry Building": {
+        "address": "2560 Kenny Rd Building 289, Columbus, OH 43210, USA",
+        "latitude": 40.0115788,
+        "longitude": -83.035777,
+        "google_place_id": "EjMyNTYwIEtlbm55IFJkIEJ1aWxkaW5nIDI4OSwgQ29sdW1idXMsIE9IIDQzMjEwLCBVU0EiKBomChYKFAoSCWEguol9jjiIEVKfwv1ZSAZ3EgxCdWlsZGluZyAyODk"
+    },
+    "Lawrence Tower LARH": {
+        "address": "Lawrence Tower, 328 W Lane Ave, Columbus, OH 43201, USA",
+        "latitude": 40.0072726,
+        "longitude": -83.0185137,
+        "google_place_id": "ChIJPfRq3pmOOIgRrLZKDx-cQkk"
+    },
+    "Lazenby Hall LZ": {
+        "address": "Lazenby Hall, 1827 Neil Ave Building 041, Columbus, OH 43210, USA",
+        "latitude": 39.9985682,
+        "longitude": -83.01568309999999,
+        "google_place_id": "EkFMYXplbmJ5IEhhbGwsIDE4MjcgTmVpbCBBdmUgQnVpbGRpbmcgMDQxLCBDb2x1bWJ1cywgT0ggNDMyMTAsIFVTQSIoGiYKFgoUChIJoeLlc5WOOIgRh-fwWsvIv2ISDEJ1aWxkaW5nIDA0MQ"
+    },
+    "Library Book Depository": {
+        "address": "2700 Kenny Rd Building 350, Columbus, OH 43210, USA",
+        "latitude": 40.01517500000001,
+        "longitude": -83.036374,
+        "google_place_id": "EjMyNzAwIEtlbm55IFJkIEJ1aWxkaW5nIDM1MCwgQ29sdW1idXMsIE9IIDQzMjEwLCBVU0EiKBomChYKFAoSCRWxFjp-jjiIEdxdyWySOj9mEgxCdWlsZGluZyAzNTA"
+    },
+    "Lincoln Tower LT": {
+        "address": "Lincoln Tower, 1800 Cannon Dr, Columbus, OH 43210, USA",
+        "latitude": 39.9985045,
+        "longitude": -83.02196049999999,
+        "google_place_id": "ChIJr5S9EJOOOIgR5IDe1TVAASk"
+    },
+    "Lincoln Tower Park": {},
+    "Longaberger Alumni House": {
+        "address": "Longaberger Alumni House, 2200 Olentangy River Rd, Columbus, OH 43202, USA",
+        "latitude": 40.008796,
+        "longitude": -83.0212835,
+        "google_place_id": "ChIJGVdlOJqOOIgRlS1KfHk8AKk"
+    },
+    "Mack Hall": {
+        "address": "Mack Hall, 1698 Neil Ave Building 100, Columbus, OH 43210, USA",
+        "latitude": 39.996197,
+        "longitude": -83.0144,
+        "google_place_id": "Ej5NYWNrIEhhbGwsIDE2OTggTmVpbCBBdmUgQnVpbGRpbmcgMTAwLCBDb2x1bWJ1cywgT0ggNDMyMTAsIFVTQSIoGiYKFgoUChIJyaOYAsCOOIgR5mB2xPuqelESDEJ1aWxkaW5nIDEwMA"
+    },
+    "MacQuigg Laboratory MQ": {
+        "address": "105 W Woodruff Ave, Columbus, OH 43210, USA",
+        "latitude": 40.0036006,
+        "longitude": -83.011601,
+        "google_place_id": "ChIJyftm_7yOOIgReMnEkPfXXsA"
+    },
+    "Maintenance Building": {
+        "address": "Maintenance Bldg, 2000 Tuttle Park Pl, Columbus, OH 43210, USA",
+        "latitude": 40.0021917,
+        "longitude": -83.0175086,
+        "google_place_id": "ChIJ3fgzhpaOOIgR1hgpsHuh2I0"
+    },
+    "Mason Hall MH": {
+        "address": "250 W Woodruff Ave, Columbus, OH 43210, USA",
+        "latitude": 40.0044715,
+        "longitude": -83.015523,
+        "google_place_id": "ChIJP74-z5eOOIgRWzN5IXlZLW0"
+    },
+    "Mathematics Building MA": {
+        "address": "Mathematics Tower, 231 W 18th Ave, Columbus, OH 43210, USA",
+        "latitude": 40.0016338,
+        "longitude": -83.01445849999999,
+        "google_place_id": "ChIJ1ZsT_r2OOIgRVUfYVsG0rFo"
+    },
+    "Mathematics Tower MW": {
+        "address": "Mathematics Tower, 231 W 18th Ave, Columbus, OH 43210, USA",
+        "latitude": 40.0016338,
+        "longitude": -83.01445849999999,
+        "google_place_id": "ChIJ1ZsT_r2OOIgRVUfYVsG0rFo"
+    },
+    "McCampbell Hall MC": {
+        "address": "1581 Dodd Dr, Columbus, OH 43210, USA",
+        "latitude": 39.9935742,
+        "longitude": -83.02054129999999,
+        "google_place_id": "ChIJEWOJeuyOOIgRaIg9IlXw4Qo"
+    },
+    "McCorkle Aquatic Pavilion MK": {
+        "address": "McCorkle Aquatic Pavilion, 1847 Neil Ave Building 247, Columbus, OH 43210, USA",
+        "latitude": 39.9982867,
+        "longitude": -83.0178947,
+        "google_place_id": "Ek5NY0NvcmtsZSBBcXVhdGljIFBhdmlsaW9uLCAxODQ3IE5laWwgQXZlIEJ1aWxkaW5nIDI0NywgQ29sdW1idXMsIE9IIDQzMjEwLCBVU0EiKBomChYKFAoSCTsZFeWUjjiIEUDqdsUNAJdOEgxCdWlsZGluZyAyNDc"
+    },
+    "McCracken Power Plant": {
+        "address": "2001 Millikin Rd Building 069, Columbus, OH 43210, USA",
+        "latitude": 40.0015737,
+        "longitude": -83.0165644,
+        "google_place_id": "EjYyMDAxIE1pbGxpa2luIFJkIEJ1aWxkaW5nIDA2OSwgQ29sdW1idXMsIE9IIDQzMjEwLCBVU0EiKBomChYKFAoSCbdjIavDjziIEYqpWZczH8XjEgxCdWlsZGluZyAwNjk"
+    },
+    "McPherson Chemical Laboratory MP": {
+        "address": "140 W 18th Ave, Columbus, OH 43210, USA",
+        "latitude": 40.0024878,
+        "longitude": -83.0123514,
+        "google_place_id": "ChIJ3STazL2OOIgRop_1Nb9rnYY"
+    },
+    "Meiling Hall ME": {
+        "address": "370 W 9th Ave, Columbus, OH 43210, USA",
+        "latitude": 39.9941487,
+        "longitude": -83.0168242,
+        "google_place_id": "ChIJQVMF-eqOOIgRGhAuWfSPtgY"
+    },
+    "Mendenhall Laboratory ML": {
+        "address": "125 S Oval Mall Building 054, Columbus, OH 43210, USA",
+        "latitude": 39.9984323,
+        "longitude": -83.01115329999999,
+        "google_place_id": "EjUxMjUgUyBPdmFsIE1hbGwgQnVpbGRpbmcgMDU0LCBDb2x1bWJ1cywgT0ggNDMyMTAsIFVTQSIoGiYKFgoUChIJnwetfgCPOIgRSqmCgfVp1p4SDEJ1aWxkaW5nIDA1NA"
+    },
+    "Mendoza House": {
+        "address": "190 W Woodruff Ave, Columbus, OH 43210, USA",
+        "latitude": 40.0041224,
+        "longitude": -83.0143069,
+        "google_place_id": "ChIJIbEsM5aOOIgRvDto9ZMwJbg"
+    },
+    "Mershon Auditorium MM": {
+        "address": "Weigel Hall, 1871 N High St, Columbus, OH 43210, USA",
+        "latitude": 40.0005561,
+        "longitude": -83.0090285,
+        "google_place_id": "ChIJ7-wtr76OOIgRf-X-jFe6SY0"
+    },
+    "Mershon Center MM": {
+        "address": "Mershon Center, 1501 Neil Ave Building 047, Columbus, OH 43201, USA",
+        "latitude": 39.9918201,
+        "longitude": -83.01435889999999,
+        "google_place_id": "EkNNZXJzaG9uIENlbnRlciwgMTUwMSBOZWlsIEF2ZSBCdWlsZGluZyAwNDcsIENvbHVtYnVzLCBPSCA0MzIwMSwgVVNBIigaJgoWChQKEglbwFj7wY44iBFb3q3I7__x1RIMQnVpbGRpbmcgMDQ3"
+    },
+    "Metro High School": {
+        "address": "1929 Kenny Rd Building 943, Columbus, OH 43210, USA",
+        "latitude": 39.9987281,
+        "longitude": -83.0356341,
+        "google_place_id": "EjMxOTI5IEtlbm55IFJkIEJ1aWxkaW5nIDk0MywgQ29sdW1idXMsIE9IIDQzMjEwLCBVU0EiKBomChYKFAoSCWmQ5aKKjjiIETF6qHnNFCOgEgxCdWlsZGluZyA5NDM"
+    },
+    "Mirror Lake": {
+        "address": "1760 Neil Ave, Columbus, OH 43210, USA",
+        "latitude": 39.9978411,
+        "longitude": -83.0135868,
+        "google_place_id": "ChIJWbO3xr-OOIgRbATz1_XwlcU"
+    },
+    "Morehouse Medical Plaza - Concourse": {
+        "address": "Morehouse Medical Plaza, Martha-Concourse, 2050 Kenny Rd Building 882, Columbus, OH 43221, USA",
+        "latitude": 40.0012593,
+        "longitude": -83.032949,
+        "google_place_id": "El5Nb3JlaG91c2UgTWVkaWNhbCBQbGF6YSwgTWFydGhhLUNvbmNvdXJzZSwgMjA1MCBLZW5ueSBSZCBCdWlsZGluZyA4ODIsIENvbHVtYnVzLCBPSCA0MzIyMSwgVVNBIigaJgoWChQKEgljqRbti444iBEdrkfZIPUwAhIMQnVpbGRpbmcgODgy"
+    },
+    "Morehouse Medical Plaza - Pavilion": {
+        "address": "Morehouse Medical Plaza, Martha-Concourse, 2050 Kenny Rd Building 880, Columbus, OH 43221, USA",
+        "latitude": 40.0012593,
+        "longitude": -83.032949,
+        "google_place_id": "El5Nb3JlaG91c2UgTWVkaWNhbCBQbGF6YSwgTWFydGhhLUNvbmNvdXJzZSwgMjA1MCBLZW5ueSBSZCBCdWlsZGluZyA4ODAsIENvbHVtYnVzLCBPSCA0MzIyMSwgVVNBIigaJgoWChQKEgljqRbti444iBEdrkfZIPUwAhIMQnVpbGRpbmcgODgw"
+    },
+    "Morehouse Medical Plaza - Tower": {
+        "address": "2050 Kenny Rd #881, Columbus, OH 43210, USA",
+        "latitude": 40.001134,
+        "longitude": -83.0313905,
+        "google_place_id": "ChIJS-ZEjYuOOIgR-JMXglonF_o"
+    },
+    "Morrill Tower MT": {
+        "address": "1900 Cannon Dr Building 272, Columbus, OH 43210, USA",
+        "latitude": 40.0000592,
+        "longitude": -83.02195499999999,
+        "google_place_id": "EjQxOTAwIENhbm5vbiBEciBCdWlsZGluZyAyNzIsIENvbHVtYnVzLCBPSCA0MzIxMCwgVVNBIigaJgoWChQKEgmpGBS6k444iBG5ACXctHCJTxIMQnVpbGRpbmcgMjcy"
+    },
+    "Morrison Tower": {
+        "address": "196 W 11th Ave Building 190, Columbus, OH 43210, USA",
+        "latitude": 39.9957648,
+        "longitude": -83.01291909999999,
+        "google_place_id": "EjQxOTYgVyAxMXRoIEF2ZSBCdWlsZGluZyAxOTAsIENvbHVtYnVzLCBPSCA0MzIxMCwgVVNBIigaJgoWChQKEgkbaANywI44iBH4FA5mdTC3mRIMQnVpbGRpbmcgMTkw"
+    },
+    "Mount Hall MO": {
+        "address": "Bus Shelter 11-Carmack Corner, 1050 Carmack Rd, Columbus, OH 43210, USA",
+        "latitude": 40.0039953,
+        "longitude": -83.0366971,
+        "google_place_id": "ChIJKSKOZWGOOIgRXxM7fwShvnc"
+    },
+    "Neil Ave, 1656-1660": {
+        "address": "1656 Neil Ave #1660, Columbus, OH 43201, USA",
+        "latitude": 39.9952776,
+        "longitude": -83.01421839999999,
+        "google_place_id": "ChIJ0esUGcCOOIgRUqWbGnTcxK8"
+    },
+    "Newman and Wolfrom Laboratory of Chemistry": {
+        "address": "Newman And Wolfrom Laboratory Of Chemistry, 100 W 18th Ave, Columbus, OH 43210, USA",
+        "latitude": 40.0024447,
+        "longitude": -83.0114214,
+        "google_place_id": "ChIJpzqeN7yOOIgR-uCiVSE3cnU"
+    },
+    "Newton Hall NH": {
+        "address": "1585 Neil Ave Building 275, Columbus, OH 43210, USA",
+        "latitude": 39.9939786,
+        "longitude": -83.0148207,
+        "google_place_id": "EjMxNTg1IE5laWwgQXZlIEJ1aWxkaW5nIDI3NSwgQ29sdW1idXMsIE9IIDQzMjEwLCBVU0EiKBomChYKFAoSCW29XQHrjjiIEVvCE5KgbsiMEgxCdWlsZGluZyAyNzU"
+    },
+    "Nicklaus Museum": {
+        "address": "Nicklaus Museum, 2355 Olentangy River Rd, Columbus, OH 43210, USA",
+        "latitude": 40.0098527,
+        "longitude": -83.0235916,
+        "google_place_id": "ChIJG1CeA5uOOIgRvXWW2BMGMww"
+    },
+    "Nineteenth Ave, 140 W KL": {
+        "address": "140 W 19th Ave Building 145, Columbus, OH 43210, USA",
+        "latitude": 40.0031566,
+        "longitude": -83.0124129,
+        "google_place_id": "EjQxNDAgVyAxOXRoIEF2ZSBCdWlsZGluZyAxNDUsIENvbHVtYnVzLCBPSCA0MzIxMCwgVVNBIigaJgoWChQKEglj5U2wvY44iBEu9VHVk5ufUBIMQnVpbGRpbmcgMTQ1"
+    },
+    "North Recreation Center": {
+        "address": "149 W Lane Ave, Columbus, OH 43210, USA",
+        "latitude": 40.00532219999999,
+        "longitude": -83.0128685,
+        "google_place_id": "ChIJa8TvOb2OOIgRbT3CqQ8Sd3c"
+    },
+    "North Star Rd, 2470": {
+        "address": "2470 N Star Rd, Columbus, OH 43221, USA",
+        "latitude": 40.0084684,
+        "longitude": -83.0470033,
+        "google_place_id": "ChIJ7e_6_2-OOIgRdY7b0dwIOLs"
+    },
+    "Northwood-High Building": {
+        "address": "2231 N High St, Columbus, OH 43201, USA",
+        "latitude": 40.00774390000001,
+        "longitude": -83.01045549999999,
+        "google_place_id": "ChIJraTba6OOOIgR_PKFX8dMuNA"
+    },
+    "Norton House": {
+        "address": "Norton House, 2114 Neil Ave Building 186, Columbus, OH 43210, USA",
+        "latitude": 40.0047923,
+        "longitude": -83.0137713,
+        "google_place_id": "EkFOb3J0b24gSG91c2UsIDIxMTQgTmVpbCBBdmUgQnVpbGRpbmcgMTg2LCBDb2x1bWJ1cywgT0ggNDMyMTAsIFVTQSIoGiYKFgoUChIJU_10b72OOIgRxRSuF29qMiASDEJ1aWxkaW5nIDE4Ng"
+    },
+    "Norwich Flats": {
+        "address": "250 W Norwich Ave Building 2564, Columbus, OH 43201, USA",
+        "latitude": 40.0076893,
+        "longitude": -83.01663789999999,
+        "google_place_id": "EjgyNTAgVyBOb3J3aWNoIEF2ZSBCdWlsZGluZyAyNTY0LCBDb2x1bWJ1cywgT0ggNDMyMDEsIFVTQSIpGicKFgoUChIJSZkpOpiOOIgRc6IJzxTFbosSDUJ1aWxkaW5nIDI1NjQ"
+    },
+    "Nosker House": {
+        "address": "Nosker House, 124 W Woodruff Ave, Columbus, OH 43210, USA",
+        "latitude": 40.0048506,
+        "longitude": -83.0120924,
+        "google_place_id": "ChIJm5K1G72OOIgR8kqLHGiwwF4"
+    },
+    "Ohio Stadium ST": {
+        "address": "411 Woody Hayes Dr, Columbus, OH 43210, USA",
+        "latitude": 40.0025001,
+        "longitude": -83.02029999999999,
+        "google_place_id": "ChIJ_SabAZSOOIgRB3Yt-oz9DyY"
+    },
+    "Ohio Union OU": {
+        "address": "1739 N High St, Columbus, OH 43210, USA",
+        "latitude": 39.9978638,
+        "longitude": -83.0086615,
+        "google_place_id": "ChIJPWhkzLiOOIgRvclRGGVlItc"
+    },
+    "Ornamental Plant Germplasm Center": {
+        "address": "670 Vernon L Tharp St, Columbus, OH 43210, USA",
+        "latitude": 40.0018192,
+        "longitude": -83.0289837,
+        "google_place_id": "ChIJF5zxJIyOOIgRfc1qDmvwOFE"
+    },
+    "Orton Hall OR": {
+        "address": "155 S Oval Mall Building 060, Columbus, OH 43210, USA",
+        "latitude": 39.9986377,
+        "longitude": -83.0131667,
+        "google_place_id": "EjUxNTUgUyBPdmFsIE1hbGwgQnVpbGRpbmcgMDYwLCBDb2x1bWJ1cywgT0ggNDMyMTAsIFVTQSJDGkEKMRIvChQKEgnR63uzv444iBFbUuKQpruUnxCbASoUChIJB1sZrb-OOIgRsDfFptG9HH0SDEJ1aWxkaW5nIDA2MA"
+    },
+    "OSU Center for Human Resource Research": {
+        "address": "921 Chatham Ln Suite 200, Columbus, OH 43221, USA",
+        "latitude": 40.0191126,
+        "longitude": -83.0364855,
+        "google_place_id": "ChIJ9-ReSdWNOIgRyyE1JoGD3SM"
+    },
+    "Oxley Hall OX": {
+        "address": "1712 Neil Ave Building 102, Columbus, OH 43210, USA",
+        "latitude": 39.9964038,
+        "longitude": -83.0144687,
+        "google_place_id": "EjMxNzEyIE5laWwgQXZlIEJ1aWxkaW5nIDEwMiwgQ29sdW1idXMsIE9IIDQzMjEwLCBVU0EiKBomChYKFAoSCVNLk_-_jjiIEZ01vckcprY_EgxCdWlsZGluZyAxMDI"
+    },
+    "Page Hall PA": {
+        "address": "1810 College Rd N, Columbus, OH 43210, USA",
+        "latitude": 39.9991898,
+        "longitude": -83.0097278,
+        "google_place_id": "ChIJLacp0L6OOIgRDMB7pEeallk"
+    },
+    "Park-Stradley Hall PARK": {
+        "address": "120 W 11th Ave Building 851, Columbus, OH 43210, USA",
+        "latitude": 39.9957922,
+        "longitude": -83.0106881,
+        "google_place_id": "EjQxMjAgVyAxMXRoIEF2ZSBCdWlsZGluZyA4NTEsIENvbHVtYnVzLCBPSCA0MzIxMCwgVVNBIigaJgoWChQKEgm_EkifwI44iBF9zb4GpZ3jSBIMQnVpbGRpbmcgODUx"
+    },
+    "Parker Food Science and Technology FS": {
+        "address": "2015 Fyffe Ct, Columbus, OH 43210, USA",
+        "latitude": 40.00334840000001,
+        "longitude": -83.02803399999999,
+        "google_place_id": "EiYyMDE1IEZ5ZmZlIEN0LCBDb2x1bWJ1cywgT0ggNDMyMTAsIFVTQSIxEi8KFAoSCYHHkl-OjjiIEcpFFMNtntRyEN8PKhQKEgkJZndWjo44iBE4Qx7AIR-2sw"
+    },
+    "Parking Garage - Arps": {
+        "address": "Parking Garage-Arps, 1990 College Rd N, Columbus, OH 43210, USA",
+        "latitude": 40.0029857,
+        "longitude": -83.0104391,
+        "google_place_id": "ChIJXadXaLyOOIgR-gsitZr2tzI"
+    },
+    "Parking Garage - Biological Science Building": {
+        "address": "484 W 12th Ave, Columbus, OH 43210, USA",
+        "latitude": 39.99659949999999,
+        "longitude": -83.0201012,
+        "google_place_id": "ChIJPejobmGPOIgRGvJy64uHPFc"
+    },
+    "Parking Garage - Cannon Dr N and S": {
+        "address": "1640 Cannon Dr, Columbus, OH 43210, USA",
+        "latitude": 39.9951109,
+        "longitude": -83.0207367,
+        "google_place_id": "ChIJ8XiFkOyOOIgREFJqrht89y4"
+    },
+    "Parking Garage - Eleventh Ave": {
+        "address": "Eleventh Avenue Garage, 229 W 11th Ave Building 352, Columbus, OH 43201, USA",
+        "latitude": 39.9951285,
+        "longitude": -83.01298349999999,
+        "google_place_id": "EkxFbGV2ZW50aCBBdmVudWUgR2FyYWdlLCAyMjkgVyAxMXRoIEF2ZSBCdWlsZGluZyAzNTIsIENvbHVtYnVzLCBPSCA0MzIwMSwgVVNBIigaJgoWChQKEgkNFdVrwI44iBHHreFAYa2a0xIMQnVpbGRpbmcgMzUy"
+    },
+    "Parking Garage - Gateway E": {
+        "address": "75 E 11th Ave, Columbus, OH 43201, USA",
+        "latitude": 39.9940135,
+        "longitude": -83.00508289999999,
+        "google_place_id": "ChIJiUh7x8eOOIgR8gekyhNqn2c"
+    },
+    "Parking Garage - Lane Ave": {
+        "address": "2105 Neil Ave Building 159, Columbus, OH 43210, USA",
+        "latitude": 40.0059778,
+        "longitude": -83.0139312,
+        "google_place_id": "EjMyMTA1IE5laWwgQXZlIEJ1aWxkaW5nIDE1OSwgQ29sdW1idXMsIE9IIDQzMjEwLCBVU0EiKBomChYKFAoSCVOM71C9jjiIERW0y55qbeErEgxCdWlsZGluZyAxNTk"
+    },
+    "Parking Garage - Neil Ave": {
+        "address": "1801 Neil Ave Building 287, Columbus, OH 43210, USA",
+        "latitude": 39.998188,
+        "longitude": -83.01765189999999,
+        "google_place_id": "EjMxODAxIE5laWwgQXZlIEJ1aWxkaW5nIDI4NywgQ29sdW1idXMsIE9IIDQzMjEwLCBVU0EiKBomChYKFAoSCQ-qdd-UjjiIEYlNc8yC8ftfEgxCdWlsZGluZyAyODc"
+    },
+    "Parking Garage - Ninth Ave E": {
+        "address": "345 W 9th Ave, Columbus, OH 43210, USA",
+        "latitude": 39.9932793,
+        "longitude": -83.02107889999999,
+        "google_place_id": "ChIJ4fnjTHePOIgRcxk-F7hzWmk"
+    },
+    "Parking Garage - Ninth Ave W": {
+        "address": "355 W 9th Ave, Columbus, OH 43210, USA",
+        "latitude": 39.9927706,
+        "longitude": -83.01669919999999,
+        "google_place_id": "ChIJYw3ZR-qOOIgRC3wvXFFhFTY"
+    },
+    "Parking Garage - Northwest": {
+        "address": "Parking Garage-Northwest, 271 Ives Dr, Columbus, OH 43210, USA",
+        "latitude": 40.0029069,
+        "longitude": -83.01624749999999,
+        "google_place_id": "ChIJvzatQZaOOIgRcMFVForPSR4"
+    },
+    "Parking Garage - Ohio Union North": {
+        "address": "1780 College Rd, Columbus, OH 43210, USA",
+        "latitude": 39.9987311,
+        "longitude": -83.0098804,
+        "google_place_id": "EigxNzgwIENvbGxlZ2UgUmQsIENvbHVtYnVzLCBPSCA0MzIxMCwgVVNBIjESLwoUChIJI8Wd176OOIgRVl732xavZT0Q9A0qFAoSCY_y5DW_jjiIEZsrtRYfSxTr"
+    },
+    "Parking Garage - Ohio Union South": {
+        "address": "1759 N High St, Columbus, OH 43210, USA",
+        "latitude": 39.9984734,
+        "longitude": -83.0087748,
+        "google_place_id": "ChIJL87K17iOOIgRDXMAf84BHrw"
+    },
+    "Parking Garage - SafeAuto Hospitals": {
+        "address": "Parking Garage-Safeauto Hospitals, 1585 Westpark St Building 170, Columbus, OH 43210, USA",
+        "latitude": 39.9934583,
+        "longitude": -83.018242,
+        "google_place_id": "EllQYXJraW5nIEdhcmFnZS1TYWZlYXV0byBIb3NwaXRhbHMsIDE1ODUgV2VzdHBhcmsgU3QgQnVpbGRpbmcgMTcwLCBDb2x1bWJ1cywgT0ggNDMyMTAsIFVTQSIoGiYKFgoUChIJFybqpOuOOIgRGFmzejfEQQkSDEJ1aWxkaW5nIDE3MA"
+    },
+    "Parking Garage - Tuttle Park Pl": {
+        "address": "Parking Garage, 2050 Tuttle Park Pl, Columbus, OH 43210, USA",
+        "latitude": 40.0028534,
+        "longitude": -83.0171452,
+        "google_place_id": "ChIJCTeEYJaOOIgRtLEBjKjCUoY"
+    },
+    "Parking Garage - Twelfth Ave": {
+        "address": "340 W 12th Ave, Columbus, OH 43210, USA",
+        "latitude": 39.9961038,
+        "longitude": -83.01798560000002,
+        "google_place_id": "ChIJT6987A-POIgRBwuMSTD5100"
+    },
+    "Parking Garage - W Lane Ave": {
+        "address": "Lane Avenue Garage North, 322 W Lane Ave, Columbus, OH 43201, USA",
+        "latitude": 40.0071574,
+        "longitude": -83.01792619999999,
+        "google_place_id": "ChIJd7mP0JmOOIgRtREQ2g_nl_I"
+    },
+    "Parks Hall PK": {
+        "address": "500 W 12th Ave Building 273, Columbus, OH 43210, USA",
+        "latitude": 39.9964685,
+        "longitude": -83.0209517,
+        "google_place_id": "EjQ1MDAgVyAxMnRoIEF2ZSBCdWlsZGluZyAyNzMsIENvbHVtYnVzLCBPSCA0MzIxMCwgVVNBIigaJgoWChQKEgkdHOqz7I44iBGZ_89V57xSmhIMQnVpbGRpbmcgMjcz"
+    },
+    "Paterson Hall": {
+        "address": "191 W 12th Ave, Columbus, OH 43210, USA",
+        "latitude": 39.9963562,
+        "longitude": -83.01244129999999,
+        "google_place_id": "ChIJg9E4jr-OOIgRIu3wBUk1XkM"
+    },
+    "Pennsylvania Place": {
+        "address": "1478 Pennsylvania Ave, Columbus, OH 43201, USA",
+        "latitude": 39.99147019999999,
+        "longitude": -83.0148415,
+        "google_place_id": "ChIJ33UnAeqOOIgRgjf0yjhirK8"
+    },
+    "Pfahl Hall PF": {
+        "address": "Pfahl Executive Education Bldg, 280 W Woodruff Ave, Columbus, OH 43210, USA",
+        "latitude": 40.004316,
+        "longitude": -83.0164573,
+        "google_place_id": "ChIJMWC6s5eOOIgRAq57BvAwJF8"
+    },
+    "Phi Kappa Tau Fraternity": {
+        "address": "141 E 15th Ave, Columbus, OH 43201, USA",
+        "latitude": 39.9995859,
+        "longitude": -83.004121,
+        "google_place_id": "ChIJrfZ94LmOOIgRc03rdlQSgdY"
+    },
+    "Physical Activity and Education Services - PAES PE": {},
+    "Physics Research Building PY": {
+        "address": "Physics Research Building, 191 W Woodruff Ave, Columbus, OH 43210, USA",
+        "latitude": 40.0032792,
+        "longitude": -83.0142958,
+        "google_place_id": "ChIJnW_yhb2OOIgRJEROKnZezsg"
+    },
+    "Plumb Hall PL": {
+        "address": "Plumb Hall, 2027 Coffey Rd Building 066, Columbus, OH 43210, USA",
+        "latitude": 40.0035526,
+        "longitude": -83.0266991,
+        "google_place_id": "EkBQbHVtYiBIYWxsLCAyMDI3IENvZmZleSBSZCBCdWlsZGluZyAwNjYsIENvbHVtYnVzLCBPSCA0MzIxMCwgVVNBIigaJgoWChQKEglX3ZU_jo44iBGrZFkTihqNuRIMQnVpbGRpbmcgMDY2"
+    },
+    "Pomerene Alumnae Scholarship House": {
+        "address": "231 W 10th Ave Building 869, Columbus, OH 43201, USA",
+        "latitude": 39.9940687,
+        "longitude": -83.01326759999999,
+        "google_place_id": "EjQyMzEgVyAxMHRoIEF2ZSBCdWlsZGluZyA4NjksIENvbHVtYnVzLCBPSCA0MzIwMSwgVVNBIigaJgoWChQKEgnRyuBJwI44iBGXHd8SUv8gKxIMQnVpbGRpbmcgODY5"
+    },
+    "Pomerene Hall PO": {
+        "address": "Pomerene Hall, 1760 Neil Ave Building 067, Columbus, OH 43210, USA",
+        "latitude": 39.99736920000001,
+        "longitude": -83.01440079999999,
+        "google_place_id": "EkJQb21lcmVuZSBIYWxsLCAxNzYwIE5laWwgQXZlIEJ1aWxkaW5nIDA2NywgQ29sdW1idXMsIE9IIDQzMjEwLCBVU0EiKBomChYKFAoSCalGZeG_jjiIEZH8HfcELE82EgxCdWlsZGluZyAwNjc"
+    },
+    "Postle Hall PH": {
+        "address": "Postle Hall, 305 W 12th Ave, Columbus, OH 43210, USA",
+        "latitude": 39.9960543,
+        "longitude": -83.01641529999999,
+        "google_place_id": "ChIJRbOXyeqOOIgRDLO-uXMvq9s"
+    },
+    "Pressey Hall PR": {
+        "address": "1070 Carmack Rd, Columbus, OH 43210, USA",
+        "latitude": 40.0039567,
+        "longitude": -83.0381063,
+        "google_place_id": "ChIJaYRyeGGOOIgRvWVY9Uaf6lo"
+    },
+    "Printing Facility": {
+        "address": "Printing Facility, 2500 Kenny Rd Building 290, Columbus, OH 43210, USA",
+        "latitude": 40.0113828,
+        "longitude": -83.0343374,
+        "google_place_id": "EkZQcmludGluZyBGYWNpbGl0eSwgMjUwMCBLZW5ueSBSZCBCdWlsZGluZyAyOTAsIENvbHVtYnVzLCBPSCA0MzIxMCwgVVNBIigaJgoWChQKEgmDbPAWh444iBFGZG8dBnW8ZhIMQnVpbGRpbmcgMjkw"
+    },
+    "Prior Hall PI": {
+        "address": "Prior Hall, 376 W 10th Ave Building 302, Columbus, OH 43210, USA",
+        "latitude": 39.9948179,
+        "longitude": -83.0170868,
+        "google_place_id": "EkBQcmlvciBIYWxsLCAzNzYgVyAxMHRoIEF2ZSBCdWlsZGluZyAzMDIsIENvbHVtYnVzLCBPSCA0MzIxMCwgVVNBIigaJgoWChQKEgnnfJnj6o44iBGdowrqSEe_qhIMQnVpbGRpbmcgMzAy"
+    },
+    "Psychology Building PS": {
+        "address": "1835 Neil Ave Building 144, Columbus, OH 43210, USA",
+        "latitude": 39.9985956,
+        "longitude": -83.0162486,
+        "google_place_id": "EjMxODM1IE5laWwgQXZlIEJ1aWxkaW5nIDE0NCwgQ29sdW1idXMsIE9IIDQzMjEwLCBVU0EiKBomChYKFAoSCe_5PwyVjjiIEUdzD6rTiOxzEgxCdWlsZGluZyAxNDQ"
+    },
+    "Radiation Dosimetry Calibration Facility": {
+        "address": "1296 Kinnear Rd Building 155, Columbus, OH 43212, USA",
+        "latitude": 40.0013579,
+        "longitude": -83.04377319999999,
+        "google_place_id": "ChIJnSC-8GaOOIgRiSN_QfUgljY"
+    },
+    "Ramseyer Hall RA": {
+        "address": "Ramseyer Hall, 29 W Woodruff Ave, Columbus, OH 43210, USA",
+        "latitude": 40.0033471,
+        "longitude": -83.0096581,
+        "google_place_id": "ChIJgTHWe7yOOIgRpzU350qqQkc"
+    },
+    "Raney House": {
+        "address": "33 W Lane Ave, Columbus, OH 43210, USA",
+        "latitude": 40.0055347,
+        "longitude": -83.009993,
+        "google_place_id": "ChIJc2EPsryOOIgRwhtuJ-VZS0w"
+    },
+    "Recreation and Physical Activity Center RP": {},
+    "Research Administration Building": {
+        "address": "Research Foundation Bldg, Parking lot, 1960 Kenny Rd Building 200, Columbus, OH 43210, USA",
+        "latitude": 39.9994554,
+        "longitude": -83.03375079999999,
+        "google_place_id": "ElpSZXNlYXJjaCBGb3VuZGF0aW9uIEJsZGcsIFBhcmtpbmcgbG90LCAxOTYwIEtlbm55IFJkIEJ1aWxkaW5nIDIwMCwgQ29sdW1idXMsIE9IIDQzMjEwLCBVU0EiKBomChYKFAoSCfm7r_yKjjiIEcAC445mj-hQEgxCdWlsZGluZyAyMDA"
+    },
+    "Research Center": {
+        "address": "Animal House Kinnear Research Center, 1314 Kinnear Rd Building 073, Columbus, OH 43212, USA",
+        "latitude": 39.9995212,
+        "longitude": -83.0430802,
+        "google_place_id": "EltBbmltYWwgSG91c2UgS2lubmVhciBSZXNlYXJjaCBDZW50ZXIsIDEzMTQgS2lubmVhciBSZCBCdWlsZGluZyAwNzMsIENvbHVtYnVzLCBPSCA0MzIxMiwgVVNBIigaJgoWChQKEgl9iVsUZ444iBHxiXJXmWF0jBIMQnVpbGRpbmcgMDcz"
+    },
+    "Residence on Tenth": {
+        "address": "230 W 10th Ave Building 850, Columbus, OH 43210, USA",
+        "latitude": 39.9945273,
+        "longitude": -83.0129319,
+        "google_place_id": "EjQyMzAgVyAxMHRoIEF2ZSBCdWlsZGluZyA4NTAsIENvbHVtYnVzLCBPSCA0MzIxMCwgVVNBIigaJgoWChQKEgnT08FFwI44iBHLLQTvoOX1XBIMQnVpbGRpbmcgODUw"
+    },
+    "Rhodes Hall RD": {
+        "address": "450 W 10th Ave Building 354, Columbus, OH 43210, USA",
+        "latitude": 39.9948551,
+        "longitude": -83.0183157,
+        "google_place_id": "ChIJh9lkEeuOOIgRoZPIw2W1neA"
+    },
+    "Riffe Building RF": {
+        "address": "Riffe, Vernal G, Jr, Building, 496 W 12th Ave, Columbus, OH 43210, USA",
+        "latitude": 39.9963184,
+        "longitude": -83.0208229,
+        "google_place_id": "ChIJAbtHU5OOOIgRekQTSv0w4GE"
+    },
+    "Rightmire Hall RH": {
+        "address": "1060 Carmack Rd, Columbus, OH 43210, USA",
+        "latitude": 40.0032231,
+        "longitude": -83.0373963,
+        "google_place_id": "ChIJleq2GGKOOIgRUU-gkJyyV1Q"
+    },
+    "Riverwatch Tower": {
+        "address": "Riverwatch Tower, 364 W Lane Ave, Columbus, OH 43201, USA",
+        "latitude": 40.0073859,
+        "longitude": -83.0197308,
+        "google_place_id": "ChIJqSls-JmOOIgR7gQ41Y6hmXs"
+    },
+    "Ross Heart Hospital": {
+        "address": "452 W 10th Ave Building 353, Columbus, OH 43210, USA",
+        "latitude": 39.9945049,
+        "longitude": -83.0185137,
+        "google_place_id": "EjQ0NTIgVyAxMHRoIEF2ZSBCdWlsZGluZyAzNTMsIENvbHVtYnVzLCBPSCA0MzIxMCwgVVNBIigaJgoWChQKEgm_CZwN6444iBFvXRcMFuiLsRIMQnVpbGRpbmcgMzUz"
+    },
+    "Sandefur Wetland Pavilion": {
+        "address": "Commercial Building On Dodridge, 352 W Dodridge St, Columbus, OH 43202, USA",
+        "latitude": 40.0180535,
+        "longitude": -83.0190921,
+        "google_place_id": "ChIJl9kyuSCMOIgRIZxLceo0ejM"
+    },
+    "Satellite Communications Facility": {
+        "address": "1318 Kinnear Rd Building 264, Columbus, OH 43210, USA",
+        "latitude": 40.0026315,
+        "longitude": -83.04464279999999,
+        "google_place_id": "EjUxMzE4IEtpbm5lYXIgUmQgQnVpbGRpbmcgMjY0LCBDb2x1bWJ1cywgT0ggNDMyMTAsIFVTQSIoGiYKFgoUChIJaaoze2aOOIgR-Dg5O7pdl6sSDEJ1aWxkaW5nIDI2NA"
+    },
+    "Schoenbaum Family Center SF": {
+        "address": "175 E 7th Ave Building 933, Columbus, OH 43201, USA",
+        "latitude": 39.9897266,
+        "longitude": -83.0014721,
+        "google_place_id": "EjMxNzUgRSA3dGggQXZlIEJ1aWxkaW5nIDkzMywgQ29sdW1idXMsIE9IIDQzMjAxLCBVU0EiKBomChYKFAoSCXcK5yfPjjiIERso3MeBPp3VEgxCdWlsZGluZyA5MzM"
+    },
+    "Schoenbaum Hall SB": {
+        "address": "Schoenbaum Hall, 210 W Woodruff Ave, Columbus, OH 43210, USA",
+        "latitude": 40.004242,
+        "longitude": -83.0147909,
+        "google_place_id": "ChIJZdSH1peOOIgRi26It_Xo_7c"
+    },
+    "Schottenstein Center JSC": {
+        "address": "Schottenstein, Jerome, Center, Schottenstein Center, 555 Borror Dr, Columbus, OH 43210, USA",
+        "latitude": 40.0075992,
+        "longitude": -83.0248064,
+        "google_place_id": "ChIJA1F8r5qOOIgRgs1lAQypqmA"
+    },
+    "Schumaker Complex": {
+        "address": "615 Irving Schottenstein Dr, Columbus, OH 43210, USA",
+        "latitude": 40.0126822,
+        "longitude": -83.0258544,
+        "google_place_id": "ChIJOede3n2POIgRhFelDdh3q-I"
+    },
+    "Science Village": {
+        "address": "Science Village, 1381 Kinnear Rd Building 974, Columbus, OH 43212, USA",
+        "latitude": 39.9979677,
+        "longitude": -83.0457721,
+        "google_place_id": "EkZTY2llbmNlIFZpbGxhZ2UsIDEzODEgS2lubmVhciBSZCBCdWlsZGluZyA5NzQsIENvbHVtYnVzLCBPSCA0MzIxMiwgVVNBIigaJgoWChQKEglz-O1eXY44iBF2uLW2GhyLdxIMQnVpbGRpbmcgOTc0"
+    },
+    "Scott Hall SC": {
+        "address": "1090 Carmack Rd, Columbus, OH 43210, USA",
+        "latitude": 40.0035715,
+        "longitude": -83.0391265,
+        "google_place_id": "ChIJ9d3j0WOOOIgR9yeWLQWEioc"
+    },
+    "Scott House": {
+        "address": "Scott House, 160 W Woodruff Ave, Columbus, OH 43210, USA",
+        "latitude": 40.0043306,
+        "longitude": -83.01339349999999,
+        "google_place_id": "ChIJt4Dtcr2OOIgRLbCY--t3Df4"
+    },
+    "Scott Laboratory SO": {
+        "address": "201 W 19th Ave Building 148, Columbus, OH 43210, USA",
+        "latitude": 40.00251,
+        "longitude": -83.0144997,
+        "google_place_id": "EjQyMDEgVyAxOXRoIEF2ZSBCdWlsZGluZyAxNDgsIENvbHVtYnVzLCBPSCA0MzIxMCwgVVNBIigaJgoWChQKEgmp4iaNvY44iBFBUnBWGPMwhRIMQnVpbGRpbmcgMTQ4"
+    },
+    "Sherman Studio Art Center SA": {
+        "address": "1055 Carmack Rd, Columbus, OH 43210, USA",
+        "latitude": 39.9998198,
+        "longitude": -83.0373865,
+        "google_place_id": "ChIJO-_oRWCOOIgRHsMHSuapa_o"
+    },
+    "Siebert Hall": {
+        "address": "184 W 11th Ave Building 099, Columbus, OH 43210, USA",
+        "latitude": 39.995757,
+        "longitude": -83.01230509999999,
+        "google_place_id": "EjQxODQgVyAxMXRoIEF2ZSBCdWlsZGluZyAwOTksIENvbHVtYnVzLCBPSCA0MzIxMCwgVVNBIigaJgoWChQKEgknnYd7wI44iBFSTsD4crgXmBIMQnVpbGRpbmcgMDk5"
+    },
+    "Sisson Hall SI": {
+        "address": "Sisson Hall, 1920 Coffey Rd Building 080, Columbus, OH 43210, USA",
+        "latitude": 40.0000471,
+        "longitude": -83.02563119999999,
+        "google_place_id": "EkFTaXNzb24gSGFsbCwgMTkyMCBDb2ZmZXkgUmQgQnVpbGRpbmcgMDgwLCBDb2x1bWJ1cywgT0ggNDMyMTAsIFVTQSIoGiYKFgoUChIJ94QahI2OOIgR5IYGXhLf1L0SDEJ1aWxkaW5nIDA4MA"
+    },
+    "Smith Laboratory SM": {
+        "address": "174 W 18th Ave, Columbus, OH 43210, USA",
+        "latitude": 40.0021591,
+        "longitude": -83.0132831,
+        "google_place_id": "ChIJOeexwr2OOIgR4pRFvFXG7aI"
+    },
+    "Smith-Steeb Hall": {
+        "address": "80 W 11th Ave Building 852, Columbus, OH 43210, USA",
+        "latitude": 39.9955356,
+        "longitude": -83.0091659,
+        "google_place_id": "EjM4MCBXIDExdGggQXZlIEJ1aWxkaW5nIDg1MiwgQ29sdW1idXMsIE9IIDQzMjEwLCBVU0EiKBomChYKFAoSCRl84lLHjjiIERljlVFPT2b9EgxCdWlsZGluZyA4NTI"
+    },
+    "Spielman Comprehensive Breast Center": {
+        "address": "1145 Olentangy River Rd, Columbus, OH 43212, USA",
+        "latitude": 39.983712,
+        "longitude": -83.0233029,
+        "google_place_id": "ChIJRbkP--SOOIgRa-y9Os2qh2E"
+    },
+    "St John Arena": {
+        "address": "410 Woody Hayes Dr, Columbus, OH 43210, USA",
+        "latitude": 40.005214,
+        "longitude": -83.01910579999999,
+        "google_place_id": "ChIJ8xYN5o-POIgRXIAHHouBBUU"
+    },
+    "Starling Loving Hall SL": {
+        "address": "Starling-Loving Hall, 320 W 10th Ave Building 176, Columbus, OH 43210, USA",
+        "latitude": 39.9951132,
+        "longitude": -83.0162027,
+        "google_place_id": "EkpTdGFybGluZy1Mb3ZpbmcgSGFsbCwgMzIwIFcgMTB0aCBBdmUgQnVpbGRpbmcgMTc2LCBDb2x1bWJ1cywgT0ggNDMyMTAsIFVTQSIoGiYKFgoUChIJF7l_6-qOOIgRMbooWFgBzGsSDEJ1aWxkaW5nIDE3Ng"
+    },
+    "State of Ohio Computer Center": {
+        "address": "1320 Arthur E Adams Dr, Columbus, OH 43221, USA",
+        "latitude": 40.0049196,
+        "longitude": -83.0465662,
+        "google_place_id": "ChIJI7-d7GWOOIgRqwfhz_N7RNc"
+    },
+    "Steelwood Athletic Training Facility": {
+        "address": "1160 Steelwood Rd, Columbus, OH 43212, USA",
+        "latitude": 39.9960533,
+        "longitude": -83.0382884,
+        "google_place_id": "ChIJu_UXsF-OOIgRZawcCIljGLI"
+    },
+    "Stillman Hall SH": {
+        "address": "Stillman Hall, 1947 College Rd N, Columbus, OH 43210, USA",
+        "latitude": 40.0018272,
+        "longitude": -83.0109172,
+        "google_place_id": "ChIJB8WrJLyOOIgRIqrkKTvQclA"
+    },
+    "Stores and Receiving": {
+        "address": "Stores and Receiving Building, 2650 Kenny Rd Building 381, Columbus, OH 43221, USA",
+        "latitude": 40.014328,
+        "longitude": -83.0355069,
+        "google_place_id": "ElJTdG9yZXMgYW5kIFJlY2VpdmluZyBCdWlsZGluZywgMjY1MCBLZW5ueSBSZCBCdWlsZGluZyAzODEsIENvbHVtYnVzLCBPSCA0MzIyMSwgVVNBIigaJgoWChQKEgm_JUSYgI44iBGlabtswNyzXxIMQnVpbGRpbmcgMzgx"
+    },
+    "Student Academic Services SAS": {
+        "address": "281 W Lane Ave, Columbus, OH 43210, USA",
+        "latitude": 40.0061382,
+        "longitude": -83.0164336,
+        "google_place_id": "ChIJoeUlTI-OOIgRYyaOwf0vAns"
+    },
+    "Sullivant Hall SU": {
+        "address": "Sullivant Hall, 1813 N High St, Columbus, OH 43210, USA",
+        "latitude": 39.999466,
+        "longitude": -83.0086445,
+        "google_place_id": "ChIJP224MLmOOIgR0LLOKe28k_Q"
+    },
+    "Taylor Tower": {
+        "address": "Taylor Tower, 55 W Lane Ave, Columbus, OH 43210, USA",
+        "latitude": 40.0056363,
+        "longitude": -83.0105614,
+        "google_place_id": "ChIJR53rt7yOOIgRM706K4CqlI4"
+    },
+    "Telecommunications Network Center": {
+        "address": "Telecommunications Network Center, 320 W 8th Ave Building 379, Columbus, OH 43201, USA",
+        "latitude": 39.9924719,
+        "longitude": -83.0152402,
+        "google_place_id": "ElZUZWxlY29tbXVuaWNhdGlvbnMgTmV0d29yayBDZW50ZXIsIDMyMCBXIDh0aCBBdmUgQnVpbGRpbmcgMzc5LCBDb2x1bWJ1cywgT0ggNDMyMDEsIFVTQSIoGiYKFgoUChIJ39weDOqOOIgRnGDrxUxiDsESDEJ1aWxkaW5nIDM3OQ"
+    },
+    "The Oval": {},
+    "Thompson Library LI": {
+        "address": "William Oxley Thompson Memorial Library, 1858 Neil Ave Building 050, Columbus, OH 43210, USA",
+        "latitude": 39.9991926,
+        "longitude": -83.01486249999999,
+        "google_place_id": "ElxXaWxsaWFtIE94bGV5IFRob21wc29uIE1lbW9yaWFsIExpYnJhcnksIDE4NTggTmVpbCBBdmUgQnVpbGRpbmcgMDUwLCBDb2x1bWJ1cywgT0ggNDMyMTAsIFVTQSIoGiYKFgoUChIJg31Ph5WOOIgR_qi0f7XlMIQSDEJ1aWxkaW5nIDA1MA"
+    },
+    "Torres House": {
+        "address": "Torres House, 187 W Lane Ave, Columbus, OH 43210, USA",
+        "latitude": 40.0059498,
+        "longitude": -83.0137601,
+        "google_place_id": "ChIJdRE1T72OOIgRbMJ_FbEHrpc"
+    },
+    "Townshend Hall TO": {
+        "address": "Townshend Hall, 1885 Neil Ave Building 087, Columbus, OH 43210, USA",
+        "latitude": 39.9997756,
+        "longitude": -83.0157658,
+        "google_place_id": "EkNUb3duc2hlbmQgSGFsbCwgMTg4NSBOZWlsIEF2ZSBCdWlsZGluZyAwODcsIENvbHVtYnVzLCBPSCA0MzIxMCwgVVNBIigaJgoWChQKEglfzeKWlY44iBEncYw6uyHkvhIMQnVpbGRpbmcgMDg3"
+    },
+    "Transmitter - WOSU VS": {
+        "address": "Transmitter-Wosu, 350 W Dodridge St, Columbus, OH 43202, USA",
+        "latitude": 40.0173656,
+        "longitude": -83.01992130000001,
+        "google_place_id": "ChIJCyJvqyCMOIgRV42YntfC77A"
+    },
+    "Turfgrass Foundation TF": {
+        "address": "Turfgrass Foundation Research and Education Facility, 2710 N Star Rd, Columbus, OH 43221, USA",
+        "latitude": 40.0136384,
+        "longitude": -83.0466039,
+        "google_place_id": "ChIJy2XfAXqOOIgRdBQwdW94Veo"
+    },
+    "Twelfth Ave, 395 W": {
+        "address": "395 W 12th Ave, Columbus, OH 43210, USA",
+        "latitude": 39.99601699999999,
+        "longitude": -83.0176819,
+        "google_place_id": "ChIJ8d--yuqOOIgRBR8Gzleu3-4"
+    },
+    "Tzagournis Medical Research Facility": {
+        "address": "420 W 12th Ave, Columbus, OH 43210, USA",
+        "latitude": 39.996384,
+        "longitude": -83.018839,
+        "google_place_id": "ChIJrR2TSeuOOIgRCgNLYCwPbUU"
+    },
+    "University Hall UH": {
+        "address": "230 N Oval Mall Building 339, Columbus, OH 43210, USA",
+        "latitude": 40.0004714,
+        "longitude": -83.0144789,
+        "google_place_id": "EjUyMzAgTiBPdmFsIE1hbGwgQnVpbGRpbmcgMzM5LCBDb2x1bWJ1cywgT0ggNDMyMTAsIFVTQSIoGiYKFgoUChIJ6QqeEr6OOIgRSUK8w7wknZQSDEJ1aWxkaW5nIDMzOQ"
+    },
+    "University Plaza Hotel": {
+        "address": "3110 Olentangy River Rd, Columbus, OH 43202, USA",
+        "latitude": 40.0240863,
+        "longitude": -83.0247534,
+        "google_place_id": "ChIJ1W8HjiWMOIgRKu73EPvtWio"
+    },
+    "Urban Arts Space": {
+        "address": "50 W Town St #130, Columbus, OH 43215, USA",
+        "latitude": 39.9589487,
+        "longitude": -83.0008609,
+        "google_place_id": "ChIJAUPT2zaPOIgRHnqQsHXr3RE"
+    },
+    "Veterinary Medical Center": {
+        "address": "Veterinary Hospital, 601 Vernon L Tharp St, Columbus, OH 43210, USA",
+        "latitude": 40.0009157,
+        "longitude": -83.02770919999999,
+        "google_place_id": "ChIJgVlnto2OOIgRGOG6D17RbWA"
+    },
+    "Veterinary Medicine Academic VM": {
+        "address": "Veterinary Medicine Academic Building, 1900 Coffey Rd Building 136, Columbus, OH 43210, USA",
+        "latitude": 39.9995019,
+        "longitude": -83.02661289999999,
+        "google_place_id": "EltWZXRlcmluYXJ5IE1lZGljaW5lIEFjYWRlbWljIEJ1aWxkaW5nLCAxOTAwIENvZmZleSBSZCBCdWlsZGluZyAxMzYsIENvbHVtYnVzLCBPSCA0MzIxMCwgVVNBIigaJgoWChQKEgkBOhV1jY44iBEtfTMHVEIRexIMQnVpbGRpbmcgMTM2"
+    },
+    "Waterman - Agronomy Field Greenhouse": {
+        "address": "2551 Carmack Rd, Columbus, OH 43221, USA",
+        "latitude": 40.0141784,
+        "longitude": -83.0454302,
+        "google_place_id": "ChIJGyOaknmOOIgRBqukywFB3L4"
+    },
+    "Waterman - Dairy Calf Barn": {
+        "address": "Waterman Farm-Dairy Calf Barn, 2449 Carmack Rd, Columbus, OH 43210, USA",
+        "latitude": 40.00953,
+        "longitude": -83.0416145,
+        "google_place_id": "ChIJc3lpYHuOOIgRJ1fhBIzBVvQ"
+    },
+    "Waterman - Dairy Loose Housing Barn": {
+        "address": "Dairy Loose Housing Barn, 2453 Carmack Rd, Columbus, OH 43210, USA",
+        "latitude": 40.0093279,
+        "longitude": -83.0411006,
+        "google_place_id": "ChIJmyU5onyOOIgRGhGIRL250uU"
+    },
+    "Waterman - Heifer Barn": {
+        "address": "Waterman Agriculture and Natural Resources Laboratory Complex, 2467 Carmack Rd, Columbus, OH 43210, USA",
+        "latitude": 40.0102102,
+        "longitude": -83.0414658,
+        "google_place_id": "ChIJm_iegnyOOIgRWfoWUX0NU98"
+    },
+    "Waterman - Laboratory Headquarters": {
+        "address": "Laboratory Headquarters, Waterman Agriculture and Natural Resources Laboratory Complex, 2490 Carmack Rd, Columbus, OH 43210, USA",
+        "latitude": 40.0103359,
+        "longitude": -83.0400519,
+        "google_place_id": "ChIJK1Kc9HyOOIgRxeXsP5WrJ18"
+    },
+    "Waterman - Main Dairy Barn": {
+        "address": "Waterman Farm-Main Dairy Barn, 2433 Carmack Rd, Columbus, OH 43210, USA",
+        "latitude": 40.0089879,
+        "longitude": -83.0417683,
+        "google_place_id": "ChIJRxaCWXuOOIgRJTsCdnziR4M"
+    },
+    "Waterman - Multispecies Barn": {
+        "address": "Dairy Research Barn, 2491 Carmack Rd, Columbus, OH 43210, USA",
+        "latitude": 40.0103446,
+        "longitude": -83.04104629999999,
+        "google_place_id": "ChIJA0nNhXyOOIgRV2kXDnK2604"
+    },
+    "Waterman - North Pole Barn": {
+        "address": "Waterman Agriculture and Natural Resources Laboratory Complex, 2623 Kenny Rd Building 937, Columbus, OH 43210, USA",
+        "latitude": 40.0149081,
+        "longitude": -83.0403121,
+        "google_place_id": "EnJXYXRlcm1hbiBBZ3JpY3VsdHVyZSBhbmQgTmF0dXJhbCBSZXNvdXJjZXMgTGFib3JhdG9yeSBDb21wbGV4LCAyNjIzIEtlbm55IFJkIEJ1aWxkaW5nIDkzNywgQ29sdW1idXMsIE9IIDQzMjEwLCBVU0EiKBomChYKFAoSCaPcRcJ-jjiIEcAFopDlmikiEgxCdWlsZGluZyA5Mzc"
+    },
+    "Waterman - Rothenbuhler Honey Bee Lab": {
+        "address": "Rothenbuhler, Walter C, Honey Bee Research Laboratory, 2501 Carmack Rd, Columbus, OH 43210, USA",
+        "latitude": 40.0111905,
+        "longitude": -83.0406592,
+        "google_place_id": "ChIJl1aoZXyOOIgRPpj_EVmIJdY"
+    },
+    "Waterman - Turf Shed 1": {
+        "address": "2551 Carmack Rd, Columbus, OH 43221, USA",
+        "latitude": 40.0141784,
+        "longitude": -83.0454302,
+        "google_place_id": "ChIJGyOaknmOOIgRBqukywFB3L4"
+    },
+    "Watts Hall WA": {
+        "address": "Fontana Laboratories, 2041 College Rd N, Columbus, OH 43210, USA",
+        "latitude": 40.0035621,
+        "longitude": -83.01117579999999,
+        "google_place_id": "ChIJp269WbyOOIgRu8frZuJsCig"
+    },
+    "Weigel Hall WG": {
+        "address": "1866 College Rd N, Columbus, OH 43210, USA",
+        "latitude": 40.0006455,
+        "longitude": -83.00988740000001,
+        "google_place_id": "ChIJUWXFmL6OOIgR7OXC8V1B7BM"
+    },
+    "Wetland Bike Shelter": {
+        "address": "Commercial Building On Dodridge, 352 W Dodridge St, Columbus, OH 43202, USA",
+        "latitude": 40.0180535,
+        "longitude": -83.0190921,
+        "google_place_id": "ChIJl9kyuSCMOIgRIZxLceo0ejM"
+    },
+    "Wexner Center for the Arts WX": {
+        "address": "Weigel Hall, 1871 N High St, Columbus, OH 43210, USA",
+        "latitude": 40.0005561,
+        "longitude": -83.0090285,
+        "google_place_id": "ChIJ7-wtr76OOIgRf-X-jFe6SY0"
+    },
+    "Wilce Student Health Center": {
+        "address": "1875 Millikin Rd Building 294, Columbus, OH 43210, USA",
+        "latitude": 39.9995656,
+        "longitude": -83.01641529999999,
+        "google_place_id": "EjYxODc1IE1pbGxpa2luIFJkIEJ1aWxkaW5nIDI5NCwgQ29sdW1idXMsIE9IIDQzMjEwLCBVU0EiKBomChYKFAoSCW1Tx6SVjjiIERX2I6KsfokTEgxCdWlsZGluZyAyOTQ"
+    },
+    "William Hall Complex - Neil Building": {
+        "address": "Neil Bldg, 1578 Neil Ave Building 846, Columbus, OH 43210, USA",
+        "latitude": 39.9938397,
+        "longitude": -83.014022,
+        "google_place_id": "Ej5OZWlsIEJsZGcsIDE1NzggTmVpbCBBdmUgQnVpbGRpbmcgODQ2LCBDb2x1bWJ1cywgT0ggNDMyMTAsIFVTQSIoGiYKFgoUChIJy5nHMsCOOIgRTIkPBCfA_N4SDEJ1aWxkaW5nIDg0Ng"
+    },
+    "William Hall Complex - Scholars House East": {
+        "address": "Scholars House East, 221 W 10th Ave Building 848, Columbus, OH 43201, USA",
+        "latitude": 39.99408589999999,
+        "longitude": -83.01288989999999,
+        "google_place_id": "EklTY2hvbGFycyBIb3VzZSBFYXN0LCAyMjEgVyAxMHRoIEF2ZSBCdWlsZGluZyA4NDgsIENvbHVtYnVzLCBPSCA0MzIwMSwgVVNBIigaJgoWChQKEgkPlZNOwI44iBF5IpFZ5LtZUBIMQnVpbGRpbmcgODQ4"
+    },
+    "William Hall Complex - Scholars House West": {
+        "address": "Scholars House West, 239 W 10th Ave Building 847, Columbus, OH 43201, USA",
+        "latitude": 39.9940839,
+        "longitude": -83.01351939999999,
+        "google_place_id": "EklTY2hvbGFycyBIb3VzZSBXZXN0LCAyMzkgVyAxMHRoIEF2ZSBCdWlsZGluZyA4NDcsIENvbHVtYnVzLCBPSCA0MzIwMSwgVVNBIigaJgoWChQKEgnpQIk2wI44iBGYZqZeosxwDRIMQnVpbGRpbmcgODQ3"
+    },
+    "William Hall Complex - Worthington Building": {
+        "address": "Worthington Bldg, 203 W 10th Ave Building 849, Columbus, OH 43210, USA",
+        "latitude": 39.9940232,
+        "longitude": -83.0125122,
+        "google_place_id": "EkZXb3J0aGluZ3RvbiBCbGRnLCAyMDMgVyAxMHRoIEF2ZSBCdWlsZGluZyA4NDksIENvbHVtYnVzLCBPSCA0MzIxMCwgVVNBIigaJgoWChQKEglbqoBRwI44iBE5jlKvJK00wxIMQnVpbGRpbmcgODQ5"
+    },
+    "Wiseman Hall WM": {
+        "address": "400 W 12th Ave, Columbus, OH 43210, USA",
+        "latitude": 39.9963568,
+        "longitude": -83.0181305,
+        "google_place_id": "ChIJkfDpLeuOOIgRO8DcYcIbyXE"
+    },
+    "Women's Field House": {
+        "address": "Women's Field House, 1790 Cannon Dr, Columbus, OH 43210, USA",
+        "latitude": 39.9981076,
+        "longitude": -83.0210302,
+        "google_place_id": "ChIJMUgnapOOOIgRkHAS2p1R0hI"
+    },
+    "Woody Hayes Athletic Center WD": {
+        "address": "535 Irving Schottenstein Dr, Columbus, OH 43210, USA",
+        "latitude": 40.0123483,
+        "longitude": -83.02420959999999,
+        "google_place_id": "ChIJD4WXp5yOOIgRtND-zRegaho"
+    },
+    "Younkin Success Center YN": {
+        "address": "1640 Neil Ave Building 052, Columbus, OH 43201, USA",
+        "latitude": 39.9949007,
+        "longitude": -83.01420759999999,
+        "google_place_id": "EjMxNjQwIE5laWwgQXZlIEJ1aWxkaW5nIDA1MiwgQ29sdW1idXMsIE9IIDQzMjAxLCBVU0EiKBomChYKFAoSCfsepSHAjjiIEQkiysjY_PDeEgxCdWlsZGluZyAwNTI"
+    },
+    "Zoology Research Laboratory": {
+        "address": "1292 Kinnear Rd #231, Grandview Heights, OH 43212, USA",
+        "latitude": 39.9991124,
+        "longitude": -83.0411407,
+        "google_place_id": "ChIJ2Z5vtmCOOIgReCc5GXqkSA8"
+    },
+    "4-H Center FO": {
+        "address": "2201 Fred Taylor Dr Building 191, Columbus, OH 43210, USA",
+        "latitude": 40.0079643,
+        "longitude": -83.028669,
+        "google_place_id": "EjkyMjAxIEZyZWQgVGF5bG9yIERyIEJ1aWxkaW5nIDE5MSwgQ29sdW1idXMsIE9IIDQzMjEwLCBVU0EiKBomChYKFAoSCTffjYSFjjiIEWCI0tN0NrX6EgxCdWlsZGluZyAxOTE"
+    }
+}

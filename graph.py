@@ -2,6 +2,12 @@ import matplotlib.pyplot as plt
 from matplotlib import collections
 from coordinate import Coordinate as C, distance
 
+# img = plt.imread('map compressed.png')
+# implot = plt.imshow(img)
+
+# top left 40.021811, -83.047599
+# bottom right 39.989208, -82.998808
+
 nodes = {
   1: C(40.001822, -83.014028),
   2: C(40.001864, -83.013730),
@@ -32,7 +38,6 @@ connections = [
   [10, 11],
   [9, 11]
 ]
-
 
 test_lines = []
 for a, b in connections:
