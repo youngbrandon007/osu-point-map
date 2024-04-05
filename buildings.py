@@ -3,6 +3,11 @@ from dotenv import load_dotenv
 import requests
 import re
 
+def simplifyWhitespaces(string:str) -> str:
+  while '  ' in string:
+    string = string.replace('  ', ' ')
+  return string
+
 load_dotenv()
 
 GOOGLE_API_KEY = os.environ['GOOGLE_API_KEY']
@@ -18,25 +23,22 @@ addresses = []
 
 print(f"Loading {len(building_numbers)} Buildings")
 
-for building_number in building_numbers:
+for building_number in building_numbers[:10]:
   response = requests.get("https://map-dev.org.ohio-state.edu/map/building-isolated.php?building=" + building_number)
   
-  html = response.content.decode().replace("\n", "|").replace("\t", "")
+  html = response.content.decode().replace("\t", "").replace("\n", "|")
   
-  match_html = r"<div class=\"column span-9 osu-margin-top\">(.*?)</div>"
+  div_pattern = r'<div class="column span-9 osu-margin-top">(.*?)</div>'
 
-  search = re.findall(match_html, html)
-  
-  match_p = r"<p>(.*?)</p>"
-  
-  paras = re.findall(match_p, search[0])
-  
-  address = paras[0].split("|")[-1].strip().replace("<br>", ", ")
-  
-  addresses.append(address)
-  
-  print(building_number, address, end="")
-  
-  input()
+  div = simplifyWhitespaces(re.findall(div_pattern, html)[0])
 
-print(addresses)
+  match_p = r'<p>\| <strong>\|(.*?)</p>'
+  para = re.findall(match_p, div)[0]
+  
+  building = list(map(lambda x: x.strip(), re.split(r'[</strong>]*<br>[\|]*', para)))
+  
+  name, *addr = building
+
+  addresses.append(building)
+
+  print(f'{name}: {", ".join(addr)}')
