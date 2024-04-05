@@ -8,6 +8,14 @@ def simplifyWhitespaces(string:str) -> str:
     string = string.replace('  ', ' ')
   return string
 
+def cleanupPara(string:str) -> str:
+  tokens = ['</strong>',"<em>","</em>"]
+  for token in tokens:
+    while token in string:
+      string = string.replace(token, "")
+  
+  return string
+
 load_dotenv()
 
 GOOGLE_API_KEY = os.environ['GOOGLE_API_KEY']
@@ -23,7 +31,7 @@ addresses = []
 
 print(f"Loading {len(building_numbers)} Buildings")
 
-for building_number in building_numbers[:10]:
+for building_number in building_numbers[:1]:
   response = requests.get("https://map-dev.org.ohio-state.edu/map/building-isolated.php?building=" + building_number)
   
   html = response.content.decode().replace("\t", "").replace("\n", "|")
@@ -33,12 +41,12 @@ for building_number in building_numbers[:10]:
   div = simplifyWhitespaces(re.findall(div_pattern, html)[0])
 
   match_p = r'<p>\| <strong>\|(.*?)</p>'
-  para = re.findall(match_p, div)[0]
-  
-  building = list(map(lambda x: x.strip(), re.split(r'[</strong>]*<br>[\|]*', para)))
+  para = cleanupPara(re.findall(match_p, div)[0])
+
+  building = list(map(lambda x: x.strip(), re.split(r'<br[/]*>[\|]*', para)))
   
   name, *addr = building
 
   addresses.append(building)
 
-  print(f'{name}: {", ".join(addr)}')
+  print(f'{building_number} - {name} - {", ".join(addr)}')
